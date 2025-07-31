@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: iPhoneIslam Support <info@iphoneislam.com>
 Pre-Depends: firmware (= 4.2.1)
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/FaceIt-3GS_421_V1_1.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/FaceIt-3GS_421_V1_1.deb
 Size: 456150
 MD5sum: ccec68df7905f17e31d5e671bcfc213b
 SHA1: dcc6af75cc23ca304c3c4e2483acb23f462691e9
@@ -22,7 +22,7 @@ Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./package_debian_A1/Flex3_3_Beta86.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/Flex3_3_Beta86.deb
 Size: 14920824
 MD5sum: fce34ff53b10f6733df7f449902cb227
 SHA1: 4d9f3723c104e256500b03e0ba7af8b38e4f1a4f
@@ -40,7 +40,7 @@ Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./package_debian_A1/Flex3_3_Beta98.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/Flex3_3_Beta98.deb
 Size: 14346600
 MD5sum: 693c569e78f37e6d0e9c2e63287bc97e
 SHA1: c6b44a4c7ef73f7b68240775ee58f7591c14d2e4
@@ -57,7 +57,7 @@ Architecture: iphoneos-arm
 Maintainer: iPhoneIslam Support <info@iphoneislam.com>
 Pre-Depends: firmware (>= 3.2)
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/Arabtaller_iPad_13.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/Arabtaller_iPad_13.deb
 Size: 12246
 MD5sum: 5884b4c59a6c1ea9e8c424f23a096d75
 SHA1: 72ef11b79e22c8e9da8cdf35d74fbe60d0bf164d
@@ -74,7 +74,7 @@ Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: Snoolie K
 Installed-Size: 200
-Filename: ./package_debian_A1/com.0xilis.letmepass_1.5_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/com.0xilis.letmepass_1.5_iphoneos-arm.deb
 Size: 3694
 MD5sum: d5dbd6ce6999cef8e456b9888f7f7db0
 SHA1: 97ecbffd7ec5f57339cd6452ff35b54e52afcc1a
@@ -89,7 +89,7 @@ Version: 3.3.1k
 Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), curl, firmware(<< 8.0) | org.coolstar.libclassictelephonyui (>= 1.1-1)
-Filename: ./package_debian_A1/org.coolstar.classiclockscreen_3.3.1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/org.coolstar.classiclockscreen_3.3.1_iphoneos-arm.deb
 Size: 736186
 MD5sum: 7d5da71444883fec6d4273860d981ca3
 SHA1: 3959241070d7b0a0cd41b21a733aaa70351962e1
@@ -105,7 +105,7 @@ Package: com.iphoneislam.HijriWidget
 Version: 1.1-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), preferenceloader
-Filename: ./package_debian_A1/HijriWidget_1.1-1.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/HijriWidget_1.1-1.deb
 Size: 170244
 MD5sum: ffd74cf6455f6fb8e2cbcc2129a0c2eb
 SHA1: 3e7c2ff64803680cb13d0207a74f6ef4f3932b9b
@@ -124,7 +124,7 @@ Version: 2.2.1-2
 Architecture: iphoneos-arm
 Maintainer: iPhoneIslam Support <info@iphoneislam.com>
 Depends: mobilesubstrate (>= 0.9.2690-1), firmware (>= 2.2)
-Filename: ./package_debian_A1/ArabtallerPlus_221_2.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ArabtallerPlus_221_2.deb
 Size: 3293736
 MD5sum: 8dcbc688e9a2dfbfcad6af2135285948
 SHA1: 8635e9b0c8febdc851a0d8e965fc42d19947baaa
@@ -142,7 +142,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iPhoneIslam Support <info@iphoneislam.com>
 Depends: firmware (>= 2.2)
-Filename: ./package_debian_A1/GPSinEG1.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/GPSinEG1.deb
 Size: 363850
 MD5sum: d82fee9b16df03d0729c6ae21a068cd6
 SHA1: 0ca52ebcbc851af78c931cd46c5645d7e8a51341
@@ -157,7 +157,7 @@ Package: com.isoftru.bochs
 Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: isoftcom.com <isoftteamsupport@gmail.com>>
-Filename: ./package_debian_A1/bochs.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/bochs.deb
 Size: 36844432
 MD5sum: 2fc90234ca64aec8d45d14b938b722c9
 SHA1: a1aeb6638d3a14378b4eefca73e4e38ee1fb5275
@@ -176,7 +176,7 @@ Maintainer: Linus Yang
 Installed-Size: 344
 Depends: mobilesubstrate
 Conflicts: me.alfhaily.adblockforyoutube
-Filename: ./package_debian_A1/com.linusyang.ytbnoad_0.1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/com.linusyang.ytbnoad_0.1_iphoneos-arm.deb
 Size: 50654
 MD5sum: 39e43deaa545fc126991b2fe2343d4c4
 SHA1: 848ecf5a0343fe1ac5e4b1cda292d2485938f2a5
@@ -190,7 +190,7 @@ Package: com.litchie.aemula
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: support@litchie.com
-Filename: ./package_debian_A1/aemula.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/aemula.deb
 Size: 2907576
 MD5sum: 760cccc2281d5a4e7e38ab64140d8339
 SHA1: a072932267c8768d848feb27b0a8e2203b1bffe8
@@ -209,7 +209,7 @@ Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: firmware (>= 12.0)
 Conflicts: com.michael.appleilluminator
-Filename: ./package_debian_A1/com.michael.appleturboboost_0.7.0_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/com.michael.appleturboboost_0.7.0_iphoneos-arm.deb
 Size: 9876
 MD5sum: 3b3fb229c9efe153cdf6288963efc66a
 SHA1: d6ee79806088ed1ff10aa50e876662e09e1ecaf4
@@ -229,7 +229,7 @@ Depends: firmware (>= 12.0), openssh(>= 8.0)
 Conflicts: com.midnightchips.localhostssh
 Replaces: com.midnightchips.localhostssh
 Provides: com.midnightchips.localhostssh
-Filename: ./package_debian_A1/com.michael.localssh_0.4.1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/com.michael.localssh_0.4.1_iphoneos-arm.deb
 Size: 7360
 MD5sum: b28df1f2b17daab8e177d67ed0884c0a
 SHA1: 77b67195b8382246d5f81861cc9c7be0b97ecaae
@@ -247,7 +247,7 @@ Architecture: iphoneos-arm
 Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
 Installed-Size: 108
 Depends: mobilesubstrate, preferenceloader
-Filename: ./package_debian_A1/com.nablac0d3.sslkillswitch2_0.14-1+debug_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/com.nablac0d3.sslkillswitch2_0.14-1+debug_iphoneos-arm.deb
 Size: 7378
 MD5sum: dee4c65c9b19b9851477ba67767e5a7e
 SHA1: 71d5f65ed0444452394c8cebaa98ce958fe2732f
@@ -263,7 +263,7 @@ Architecture: iphoneos-arm
 Maintainer: pxcex
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/com.pxcex.localiapstore13_0.0.2_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/com.pxcex.localiapstore13_0.0.2_iphoneos-arm.deb
 Size: 2684
 MD5sum: ecfd8c78d1a9f6c841715d7257cde6b3
 SHA1: 755abab6e45b47294f5181b790e36b8a37a87bbf
@@ -278,7 +278,7 @@ Version: 1.5.2
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/com.ravirajm.torch_1.5.2_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/com.ravirajm.torch_1.5.2_iphoneos-arm.deb
 Size: 34688
 MD5sum: a77b7ce2b9388d5a7c9d12e663df52c5
 SHA1: 8cf8ef240cf89a83bbd25edcbc2b6b3566695e51
@@ -297,7 +297,7 @@ Version: 1.6.1-10
 Architecture: iphoneos-arm
 Maintainer: TIGI Software
 Installed-Size: 9112
-Filename: ./package_debian_A1/com.tigisoftware.appdatamanager_1.6.1-10_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/com.tigisoftware.appdatamanager_1.6.1-10_iphoneos-arm.deb
 Size: 3677508
 MD5sum: 64ae3998d4c3e283506a5228bd8789a1
 SHA1: f5d4a2478c6611e0772ff4d9c6add68620c941d2
@@ -314,7 +314,7 @@ Maintainer: TIGI Software
 Installed-Size: 34244
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
-Filename: ./package_debian_A1/com.tigisoftware.filza_3.9.7-2_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/com.tigisoftware.filza_3.9.7-2_iphoneos-arm.deb
 Size: 13679126
 MD5sum: e8795b87183bdff75a527755243d1eee
 SHA1: 6a4d0b044530b570582e37bbb053febc31a6987a
@@ -329,7 +329,7 @@ Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: T.Herak <50dc856b@opayq.com>
 Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)
-Filename: ./package_debian_A1/com.vsz.redeb_1.0.3_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/com.vsz.redeb_1.0.3_iphoneos-arm.deb
 Size: 3572
 MD5sum: b5aa8718f90044be937b72d9f4e7a1f5
 SHA1: 912a6cf3cea1c725df51bb54ad4f849f27bdfa08
@@ -345,7 +345,7 @@ Package: com.zodttd.n64ios
 Version: 0.9.0
 Architecture: iphoneos-arm
 Maintainer: ZodTTD <zodttd@zodttd.com>
-Filename: ./package_debian_A1/com.zodttd.n64ios_0.9.0_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/com.zodttd.n64ios_0.9.0_iphoneos-arm.deb
 Size: 1624068
 MD5sum: 8b23c1dc372c58d015b00de98907aebd
 SHA1: 686a41d4f55c53f03e596e14b3b23ff2942fab8a
@@ -364,7 +364,7 @@ Architecture: iphoneos-arm
 Maintainer: iPhoneIslam Support <info@iphoneislam.com>
 Pre-Depends: firmware (= 4.3.3)
 Depends: faceit3gslib-4.3.3
-Filename: ./package_debian_A1/FaceIt-3GS_433_V1_0.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/FaceIt-3GS_433_V1_0.deb
 Size: 248274
 MD5sum: 89268c81e433564c7fb78efdd8f1bfe8
 SHA1: 920e9001cdef2bbb341ba9e1cda97b719afae7dc
@@ -382,7 +382,7 @@ Architecture: iphoneos-arm
 Maintainer: iPhoneIslam Support <info@iphoneislam.com>
 Pre-Depends: firmware (= 4.3.3)
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/FaceIt-3GS_Lib_433_V1_1.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/FaceIt-3GS_Lib_433_V1_1.deb
 Size: 519652
 MD5sum: 43140d9cf614f95f4ec091502ffc465e
 SHA1: 697a4aaeea46b7bd8884496e0c214f0100bbce27
@@ -400,7 +400,7 @@ Architecture: iphoneos-arm
 Maintainer: iPhoneIslam Support <info@iphoneislam.com>
 Pre-Depends: firmware (>= 4.1)
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/II_FT_Hacktivator_2_0.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/II_FT_Hacktivator_2_0.deb
 Size: 2514
 MD5sum: e95172bb856a61df268daf557633de6b
 SHA1: 00667657a3fd647ef6151d3e749b62497aa74a66
@@ -418,7 +418,7 @@ Maintainer: XsF1re
 Installed-Size: 1580
 Depends: mobilesubstrate
 Conflicts: kr.xsf1re.flyjb
-Filename: ./package_debian_A1/kr.xsf1re.flyjbx_1.2.5_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/kr.xsf1re.flyjbx_1.2.5_iphoneos-arm.deb
 Size: 766032
 MD5sum: 3ab29ed23676b458046ff0fb67cff34c
 SHA1: 33a4928e1555362901535e940745c18b43258d80
@@ -434,7 +434,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER
 Installed-Size: 124
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/ml.festival.4kdegkelvin_0.0.2_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.4kdegkelvin_0.0.2_iphoneos-arm.deb
 Size: 5412
 MD5sum: db6f1e791946150079479f08da2b8b73
 SHA1: ad63b9f753012f2750ac972c19d55fd368055737
@@ -451,7 +451,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./package_debian_A1/ml.festival.blurred_0.0.2_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.blurred_0.0.2_iphoneos-arm.deb
 Size: 3042
 MD5sum: 9f0c22143e5c04b3134cadf9e4b1daca
 SHA1: f20521bfb99102076c0f61d36a563250650e858c
@@ -468,7 +468,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 296
 Depends: mobilesubstrate, gsc.telephony, ws.hbang.common
-Filename: ./package_debian_A1/ml.festival.erie_0.5_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.erie_0.5_iphoneos-arm.deb
 Size: 21408
 MD5sum: 859b805e3527436fced0956f5a327808
 SHA1: d76f9f249d1578be6f317034ac77fc00ad34bcf9
@@ -485,7 +485,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 296
 Depends: mobilesubstrate, gsc.telephony, ws.hbang.common
-Filename: ./package_debian_A1/ml.festival.erie_0.5-1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.erie_0.5-1_iphoneos-arm.deb
 Size: 21398
 MD5sum: 71e1867be43c39ea61ec527d772a42bc
 SHA1: 0179aefcc2f744ecdebf8079fde70f02682f2d18
@@ -502,7 +502,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 276
 Depends: mobilesubstrate, gsc.telephony, ws.hbang.common
-Filename: ./package_debian_A1/ml.festival.erie_0.6_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.erie_0.6_iphoneos-arm.deb
 Size: 20834
 MD5sum: b0ce8fe5c90847be66d1a216d41fa2fc
 SHA1: dbbad0c2de2eba5302695a73a19e589376b944f6
@@ -519,7 +519,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 176
 Depends: mobilesubstrate, gsc.telephony, ws.hbang.common
-Filename: ./package_debian_A1/ml.festival.erie_0.7_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.erie_0.7_iphoneos-arm.deb
 Size: 16862
 MD5sum: cf2efc5c838c6af4c2309dfb6dff6f3e
 SHA1: 104699a84f8ea7343f9f71f819de4419b8b4a070
@@ -537,7 +537,7 @@ Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 148
 Depends: mobilesubstrate
 Conflicts: cy+model.ipad
-Filename: ./package_debian_A1/ml.festival.globalwarmingnomore_1.0_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.globalwarmingnomore_1.0_iphoneos-arm.deb
 Size: 31188
 MD5sum: 0914a9554df76617dae58b268f59d17b
 SHA1: 6d9505b67e7db16129a899c4a84c63a592172a46
@@ -554,7 +554,7 @@ Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 220
 Depends: mobilesubstrate
 Conflicts: cy+model.ipad
-Filename: ./package_debian_A1/ml.festival.globalwarmingnomore_1.0-1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.globalwarmingnomore_1.0-1_iphoneos-arm.deb
 Size: 44472
 MD5sum: 4245f33af94c1a173a1590e7f1d9961f
 SHA1: 1c0683faa79b0ce45a199dfcbe4f61fb2ddfcb22
@@ -571,7 +571,7 @@ Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 440
 Depends: mobilesubstrate
 Conflicts: cy+model.ipad
-Filename: ./package_debian_A1/ml.festival.globalwarmingnomore_1.1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.globalwarmingnomore_1.1_iphoneos-arm.deb
 Size: 65160
 MD5sum: 558e719f493a6923d62cff63f2ac46ef
 SHA1: 72c37153c55765797d207d007227e485d01514b4
@@ -586,7 +586,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 500
-Filename: ./package_debian_A1/ml.festival.libweathermanager_0.0.1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.libweathermanager_0.0.1_iphoneos-arm.deb
 Size: 64106
 MD5sum: 042893ce90624a240b02a02968d413a1
 SHA1: 057c016bfc721f0f7ededb3720d0dddddc9a5beb
@@ -604,7 +604,7 @@ Maintainer: Sniper_GER
 Installed-Size: 3984
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: ml.festival.lockwatch
-Filename: ./package_debian_A1/ml.festival.lockwatch10_18w07b.lw-internal.180218_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch10_18w07b.lw-internal.180218_iphoneos-arm.deb
 Size: 1270440
 MD5sum: b93faffa3947ccd975e777636c5cadf2
 SHA1: b1adae534158b0311ef14e97f15a979d2175ee3a
@@ -622,7 +622,7 @@ Maintainer: Sniper_GER
 Installed-Size: 4064
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: ml.festival.lockwatch
-Filename: ./package_debian_A1/ml.festival.lockwatch10_18w09a.lw-internal.180228_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch10_18w09a.lw-internal.180228_iphoneos-arm.deb
 Size: 1350200
 MD5sum: 6024c4f3168b40875a74831a1d98f4cf
 SHA1: ac74e6dc2d119f051568c418bc7e9fde828063c7
@@ -640,7 +640,7 @@ Maintainer: Sniper_GER
 Installed-Size: 4628
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: ml.festival.lockwatch, firmware (>= 11.0)
-Filename: ./package_debian_A1/ml.festival.lockwatch10_18w12a.lw-release.180320_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch10_18w12a.lw-release.180320_iphoneos-arm.deb
 Size: 1387102
 MD5sum: 127768ee714ae7b574d04799564821f8
 SHA1: a9c4c0f8f5b55d3227f29abd244a5ccca94dd89b
@@ -658,7 +658,7 @@ Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 288
 Depends: mobilesubstrate
 Conflicts: gsc.ipad
-Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0b1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch2_2.0b1_iphoneos-arm.deb
 Size: 52768
 MD5sum: b52c0ec31ccc65a105f6b84876d53c38
 SHA1: bb31c31632e23130e1c41bab530ba4364e865c2b
@@ -674,7 +674,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 1376
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0b2_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch2_2.0b2_iphoneos-arm.deb
 Size: 233140
 MD5sum: fe7337be85104761d47aa1e4f2a2bc85
 SHA1: 60a755f876ab5b8bc975ebcb8713dfec79db5cc8
@@ -690,7 +690,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 1432
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0b2-1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch2_2.0b2-1_iphoneos-arm.deb
 Size: 235912
 MD5sum: bb07ebd5c3fab4baaa365b57d12de895
 SHA1: aac908c27e33ed1be2d9273bc6c8637e6773d7d3
@@ -706,7 +706,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 1436
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0b2-2_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch2_2.0b2-2_iphoneos-arm.deb
 Size: 235944
 MD5sum: 7b774481c2d06b91fdd172ab09d6158e
 SHA1: d1d89bb49615235127eaaacfa2fe98d820c11f7f
@@ -722,7 +722,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 1708
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0b3_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch2_2.0b3_iphoneos-arm.deb
 Size: 267550
 MD5sum: 75871f7eb2179b5bcf5cc913cdcebded
 SHA1: eac8a8685102f2023c82fc2a537169be2c02b4af
@@ -738,7 +738,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 8828
 Depends: mobilesubstrate, preferenceloader
-Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0b3-u1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch2_2.0b3-u1_iphoneos-arm.deb
 Size: 7095016
 MD5sum: cd8aa107dc49ffeca170e93988d57d3b
 SHA1: ad3bac9b4d511ee187c3291a099732d3e0bf0e4c
@@ -754,7 +754,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 9096
 Depends: mobilesubstrate, preferenceloader
-Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0b3-u2_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch2_2.0b3-u2_iphoneos-arm.deb
 Size: 7144928
 MD5sum: fe3b44002bb4701a014d4c2c369d2af5
 SHA1: fa7da83269c5f2ed5d667cc9fdd8642e3f4ae6f2
@@ -770,7 +770,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 9148
 Depends: mobilesubstrate, preferenceloader
-Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0b4_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch2_2.0b4_iphoneos-arm.deb
 Size: 7157548
 MD5sum: d29ddd871a837a83537bd03d30b31ccd
 SHA1: f2d65378d3c5004fdf1efe107773d211e8a57e11
@@ -786,7 +786,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 9152
 Depends: mobilesubstrate, preferenceloader
-Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0b4-u1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch2_2.0b4-u1_iphoneos-arm.deb
 Size: 7159056
 MD5sum: 69cfa2d6d3e771d406dcef572925bbaf
 SHA1: c30598ac65363830c620b6e555adba48e7f134db
@@ -802,7 +802,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 48612
 Depends: mobilesubstrate, preferenceloader
-Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0f_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch2_2.0f_iphoneos-arm.deb
 Size: 46928684
 MD5sum: acdf2372845990e9ff4eae0f1ac5835d
 SHA1: c48db918e864732dfbded45e60c37ec02095c5ba
@@ -818,7 +818,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 33832
 Depends: mobilesubstrate, preferenceloader
-Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0f-2_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch2_2.0f-2_iphoneos-arm.deb
 Size: 30768768
 MD5sum: 893e1a4aa0d4b9767fd0d4e1e07494cf
 SHA1: 54cc8c7eb8b963e62dd16efaede9090770fb9535
@@ -834,7 +834,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 20660
 Depends: mobilesubstrate, preferenceloader
-Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0f-3_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch2_2.0f-3_iphoneos-arm.deb
 Size: 16836712
 MD5sum: b49cc184b360fccf93209cacec1f95d8
 SHA1: f078d87279e7d269d48f5fb56c070a0426d223e4
@@ -850,7 +850,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 6300
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./package_debian_A1/ml.festival.lockwatch2_2.1-b1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch2_2.1-b1_iphoneos-arm.deb
 Size: 592414
 MD5sum: dbe655575bc77e3e73ef09e09b182218
 SHA1: ff1f083a6ce874e81334f5d6ef80ffc50f6044eb
@@ -866,7 +866,7 @@ Architecture: iphoneos-arm
 Maintainer: Team FESTIVAL <weare@festival.tf>
 Installed-Size: 1848
 Depends: ml.festival.lockwatch2 (>= 2.1-b1)
-Filename: ./package_debian_A1/ml.festival.lockwatch2.bands.s4_1.0_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch2.bands.s4_1.0_iphoneos-arm.deb
 Size: 1718472
 MD5sum: c0092043cba9eefa9087f62dc64e15a2
 SHA1: 00896f5f3d1473a0f8b8ed30ad4bfb937cf557e9
@@ -882,7 +882,7 @@ Architecture: iphoneos-arm
 Maintainer: Team FESTIVAL <weare@festival.tf>
 Installed-Size: 268
 Depends: ml.festival.lockwatch2 (>= 2.1-b1)
-Filename: ./package_debian_A1/ml.festival.lockwatch2.cases.s3_1.0_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch2.cases.s3_1.0_iphoneos-arm.deb
 Size: 169824
 MD5sum: e21eac6fe3a4ad3cc63b63aef11d6863
 SHA1: 3048695583ee51d2e9a60a2eb5f879e8436a9b17
@@ -898,7 +898,7 @@ Architecture: iphoneos-arm
 Maintainer: Team FESTIVAL <weare@festival.tf>
 Installed-Size: 372
 Depends: ml.festival.lockwatch2 (>= 2.1-b1)
-Filename: ./package_debian_A1/ml.festival.lockwatch2.cases.s5_1.0_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch2.cases.s5_1.0_iphoneos-arm.deb
 Size: 250036
 MD5sum: 903ca7ea1aabfceb6c561c5972784c8d
 SHA1: e92dc159e8ab3babc95b493d73df0731d8479c28
@@ -914,7 +914,7 @@ Architecture: iphoneos-arm
 Maintainer: Team FESTIVAL <weare@festival.tf>
 Installed-Size: 536
 Depends: ml.festival.lockwatch2 (>= 2.1-b1)
-Filename: ./package_debian_A1/ml.festival.lockwatch2.cases.s6_1.0_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch2.cases.s6_1.0_iphoneos-arm.deb
 Size: 307660
 MD5sum: 41fd923af413779e7bf5cd5989246f09
 SHA1: 98973f5f66737204f0a7cbedfe1cfd81cfc68700
@@ -930,7 +930,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 244
 Depends: ml.festival.lockwatch2 (>= 2.0b4)
-Filename: ./package_debian_A1/ml.festival.lockwatch2.faces_1.0_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.lockwatch2.faces_1.0_iphoneos-arm.deb
 Size: 72952
 MD5sum: 85c724ac936d676da2a683d816580333
 SHA1: 716b3b27dfe21eb54b024d923e0c6aa8354eadf0
@@ -946,7 +946,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/ml.festival.medusa_0.1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.medusa_0.1_iphoneos-arm.deb
 Size: 4360
 MD5sum: b2c2265ada4248d0c28f0b00f0199891
 SHA1: 2e7aca007394cfa4aaab0bcbf944af9428cdbc3f
@@ -962,7 +962,7 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 172
-Filename: ./package_debian_A1/ml.festival.mgcopyanswerdump_0.1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.mgcopyanswerdump_0.1_iphoneos-arm.deb
 Size: 36926
 MD5sum: 1b04709888ab5ee4975ff6b6fe79d95d
 SHA1: b3a76beb9006c7b3f8becb8e64e9d8052f92639a
@@ -977,7 +977,7 @@ Version: 0.1-1
 Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 172
-Filename: ./package_debian_A1/ml.festival.mgcopyanswerdump_0.1-1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.mgcopyanswerdump_0.1-1_iphoneos-arm.deb
 Size: 36902
 MD5sum: f9037c89a95c4586f1b804fd40eb84f9
 SHA1: 3e7dbbde47555364fac7b4d69f371ff70d128a6f
@@ -992,7 +992,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 304
-Filename: ./package_debian_A1/ml.festival.mgcopyanswerdump_1.1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.mgcopyanswerdump_1.1_iphoneos-arm.deb
 Size: 85578
 MD5sum: cf984ef27b53ec92d7df78a3ec0a1936
 SHA1: e7b1c5e941aff4555be27920f6f8f1344ee07cd6
@@ -1008,7 +1008,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER
 Installed-Size: 260
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./package_debian_A1/ml.festival.notchsimulator_0.2-6_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.notchsimulator_0.2-6_iphoneos-arm.deb
 Size: 32442
 MD5sum: 40e49204a6443f584c4845f5a89b498d
 SHA1: 94f08ee11bc02fc90f53297d563c9b96b5ad63c7
@@ -1025,7 +1025,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 728
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/ml.festival.notchsimulator_0.3-1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.notchsimulator_0.3-1_iphoneos-arm.deb
 Size: 120676
 MD5sum: a24cd7a0121d724961a29013b0a3dfb3
 SHA1: 9865ba8b8456ce2da340c5da5261b7f099d8c1a2
@@ -1042,7 +1042,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 804
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/ml.festival.notchsimulator_0.5_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.notchsimulator_0.5_iphoneos-arm.deb
 Size: 131742
 MD5sum: 87ceb87e440311f3ae57fa7e5e45c260
 SHA1: a00de13602b4ff0beaad3615cad81a0c70d39ef0
@@ -1061,7 +1061,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 804
 Depends: mobilesubstrate, preferenceloader
-Filename: ./package_debian_A1/ml.festival.notchsimulator_0.5-1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.notchsimulator_0.5-1_iphoneos-arm.deb
 Size: 131740
 MD5sum: 69d04085cd6238f1700d5a29955036dc
 SHA1: 3004098915038a13fe591f540eb8b4589dd7fe18
@@ -1080,7 +1080,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 720
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/ml.festival.notchsimulator_0.6-RC1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.notchsimulator_0.6-RC1_iphoneos-arm.deb
 Size: 116572
 MD5sum: 17116aed33d705609f31ddc99231470e
 SHA1: a6f34ee2a809a8b2aecbb252565c9f1f355ae0e2
@@ -1099,7 +1099,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 716
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/ml.festival.notchsimulator_0.6-RC2_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.notchsimulator_0.6-RC2_iphoneos-arm.deb
 Size: 122680
 MD5sum: 33ea38b7fc004ad9c3fc9aec4c58b024
 SHA1: 3a21105c719b25ea1d54af790f4262893d7a7bc8
@@ -1118,7 +1118,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 1728
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/ml.festival.notchsimulator_0.7_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.notchsimulator_0.7_iphoneos-arm.deb
 Size: 466502
 MD5sum: 732441ed2861fb1e34025c966eac7471
 SHA1: 2b5baadf2cd86ef2d40ae227a887fe05f265d1de
@@ -1137,7 +1137,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 1772
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/ml.festival.notchsimulator_0.7-1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.notchsimulator_0.7-1_iphoneos-arm.deb
 Size: 477726
 MD5sum: 594304548ffbea45409bb037c28bc5e6
 SHA1: 09e64f7ae92c65360f5d80d864da45989f118914
@@ -1156,7 +1156,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/ml.festival.notchsimulatorxr_1.4_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.notchsimulatorxr_1.4_iphoneos-arm.deb
 Size: 3862
 MD5sum: 6266ac4abb9be06f194414098330e847
 SHA1: b639f660c0f796e80dd702226524e6f1174f6f60
@@ -1173,7 +1173,7 @@ Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 512
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: gsc.main-screen-width (= 1125), gsc.main-screen-height (= 2436)
-Filename: ./package_debian_A1/ml.festival.proudlock_0.1-2_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.proudlock_0.1-2_iphoneos-arm.deb
 Size: 78750
 MD5sum: 48aec53193870519457742c008958cf8
 SHA1: 75d3f035335c2fa101a9fe965d7e1cf673c761ba
@@ -1191,7 +1191,7 @@ Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 648
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: gsc.main-screen-width (= 1125), gsc.main-screen-height (= 2436)
-Filename: ./package_debian_A1/ml.festival.proudlock_0.2_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.proudlock_0.2_iphoneos-arm.deb
 Size: 88060
 MD5sum: 70f2d59cfb1efabb4589696a4b91498c
 SHA1: 009517bc9dbe287961d0c3b1610f77f054a896e7
@@ -1209,7 +1209,7 @@ Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 656
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: gsc.main-screen-width (= 1125), gsc.main-screen-height (= 2436)
-Filename: ./package_debian_A1/ml.festival.proudlock_0.2-1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.proudlock_0.2-1_iphoneos-arm.deb
 Size: 89264
 MD5sum: 2d131c2d1f3280bcb46526e9ef9a2d77
 SHA1: e812e759c7be4f9c8cb5e50f849b715898b4f98c
@@ -1228,7 +1228,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 4728
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/ml.festival.proudlockxr_0.1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.proudlockxr_0.1_iphoneos-arm.deb
 Size: 1249886
 MD5sum: fdbc8e70b6f1963158e65ecbd3292739
 SHA1: 00bbf2b411209e88c99221feb2e77528db59d86c
@@ -1244,7 +1244,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 4732
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/ml.festival.proudlockxr_0.1-1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.proudlockxr_0.1-1_iphoneos-arm.deb
 Size: 1251094
 MD5sum: a235ed700f7d9553dcc8092d261db025
 SHA1: d58c9fc904da2d12dc2018498aaaf956852997d8
@@ -1260,7 +1260,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 4732
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./package_debian_A1/ml.festival.proudlockxr_0.2_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.proudlockxr_0.2_iphoneos-arm.deb
 Size: 1251776
 MD5sum: b578bbb444d5755dd19b96ab0fc8cb10
 SHA1: a68cbd42de2e12684ee89400d455d1ccd0367a4d
@@ -1276,7 +1276,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 4736
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./package_debian_A1/ml.festival.proudlockxr_0.3_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.proudlockxr_0.3_iphoneos-arm.deb
 Size: 1252642
 MD5sum: 243d5c759d73f4a323f87dcbe9a6aaf4
 SHA1: 0271adf575ba0c5cfcc1360ad81d82878e05f018
@@ -1292,7 +1292,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 4872
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./package_debian_A1/ml.festival.proudlockxr_0.3-1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.proudlockxr_0.3-1_iphoneos-arm.deb
 Size: 1239992
 MD5sum: 910998bc50de9013d3f99caae7cfff3f
 SHA1: 496e62cfb21b3a0cb66af7cbe33bf315378d4589
@@ -1308,7 +1308,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 4872
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./package_debian_A1/ml.festival.proudlockxr_0.3-2_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.proudlockxr_0.3-2_iphoneos-arm.deb
 Size: 1240026
 MD5sum: d6efb98553d814705c341f6aa3bcfd65
 SHA1: 39348d7b0cb276bc3172705813c2766360b44b3c
@@ -1324,7 +1324,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 4872
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./package_debian_A1/ml.festival.proudlockxr_0.3-3_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.proudlockxr_0.3-3_iphoneos-arm.deb
 Size: 1240092
 MD5sum: 1d8e06651eedb185a6941683a5bef4f2
 SHA1: ad814047b99765ddc9a10ba09c6b37d29bd27656
@@ -1341,7 +1341,7 @@ Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 96
 Depends: mobilesubstrate
 Conflicts: com.jakeashacks.realcc
-Filename: ./package_debian_A1/ml.festival.realcc_1.1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.realcc_1.1_iphoneos-arm.deb
 Size: 7500
 MD5sum: beaab5ca970383273e667377e418d8f9
 SHA1: 6277dbbebedbba65b757ae7be3db0391055788c9
@@ -1358,7 +1358,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 6344
 Depends: mobilesubstrate, cc.tweak.libobjcipc, applist, ws.hbang.common, ml.festival.libweathermanager
-Filename: ./package_debian_A1/ml.festival.redstone_17w37a.rs-internal.170916_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.redstone_17w37a.rs-internal.170916_iphoneos-arm.deb
 Size: 2333754
 MD5sum: 6de5cfbd823ed95a8b596fc08596eea7
 SHA1: ed6aa1143271dc7c4b3e112e2689df399a1cf198
@@ -1375,7 +1375,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 7068
 Depends: mobilesubstrate, cc.tweak.libobjcipc, applist, ws.hbang.common, ml.festival.libweathermanager
-Filename: ./package_debian_A1/ml.festival.redstone_17w37a.rs-internal.170917_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.redstone_17w37a.rs-internal.170917_iphoneos-arm.deb
 Size: 2512038
 MD5sum: ba0a2c744d4e395ba44f606b1e84e47b
 SHA1: 682d70e850db6ec007381561ca6aa6de84589c05
@@ -1392,7 +1392,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 7176
 Depends: mobilesubstrate, cc.tweak.libobjcipc, applist, ws.hbang.common, ml.festival.libweathermanager
-Filename: ./package_debian_A1/ml.festival.redstone_17w38a.rs-internal.170918_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.redstone_17w38a.rs-internal.170918_iphoneos-arm.deb
 Size: 2611166
 MD5sum: a31d8a43631f03186a003a1cae040ad3
 SHA1: 966d6148369bd39df17f43706d9413aec14e6e22
@@ -1409,7 +1409,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <submissions@festival.ml>
 Installed-Size: 348
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/ml.festival.signal_1.3_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.signal_1.3_iphoneos-arm.deb
 Size: 48036
 MD5sum: 9a8226baf2c1cc57fbe4d4b5298f4607
 SHA1: 4cab8140ca977e52355e7297e4ae55e3933f7285
@@ -1427,7 +1427,7 @@ Maintainer: Sniper_GER <submissions@festival.ml>
 Installed-Size: 348
 Depends: mobilesubstrate
 Conflicts: gcs.cellular-data
-Filename: ./package_debian_A1/ml.festival.signal_1.4_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.signal_1.4_iphoneos-arm.deb
 Size: 48500
 MD5sum: 67f346c95c7ccd523717a3ce081c3718
 SHA1: f916b9dcde94c95b4d409dd2a7f8b50170e0d993
@@ -1444,7 +1444,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.ml>
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/ml.festival.wallpaperfix_0.0.1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/ml.festival.wallpaperfix_0.0.1_iphoneos-arm.deb
 Size: 3244
 MD5sum: 0b8ce2bad0fa2021460fc456911f4a42
 SHA1: d14160f5c53c49bad26b5403e111133cbb25eb7e
@@ -1460,7 +1460,7 @@ Architecture: iphoneos-arm
 Maintainer: misty
 Installed-Size: 140
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./package_debian_A1/moe.misty.surge4-advanced_0.0.2_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/moe.misty.surge4-advanced_0.0.2_iphoneos-arm.deb
 Size: 11048
 MD5sum: 3c7f5495ca1c6c3501f2e097332894b8
 SHA1: 9b72d85376c8abfa07805a8d86411b087c58a6eb
@@ -1479,7 +1479,7 @@ Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.8.1)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
 Replaces: us.hackulo.appsync50
 Provides: appsync
-Filename: ./package_debian_A1/nodelete-net.angelxwind.appsyncunified.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/nodelete-net.angelxwind.appsyncunified.deb
 Size: 59144
 MD5sum: 4d4f867de80c03237897a0396d1bd90b
 SHA1: ec75e0cf681f50c11ced972d9990912f6d57af99
@@ -1495,7 +1495,7 @@ Package: net.litchie.dospad
 Version: 2.0.1
 Architecture: iphoneos-arm
 Maintainer: Chaoji Li<lichaoji@gmail.com>
-Filename: ./package_debian_A1/dospad.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/dospad.deb
 Size: 3115388
 MD5sum: 8f7a7e6845e29c6b54195d40284c9fe6
 SHA1: e650b7fb778d9a21bb81eb9a0fe28fd2e2065282
@@ -1514,7 +1514,7 @@ Architecture: iphoneos-arm
 Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 2404
 Depends: firmware (>= 7.0)
-Filename: ./package_debian_A1/minivmac4ios-2.1.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/minivmac4ios-2.1.deb
 Size: 458556
 MD5sum: aee06b22136b6c587f81f5da899daf68
 SHA1: 4c06f01782734d4ad3cbccefd9fa621b891ef1f4
@@ -1531,7 +1531,7 @@ Architecture: iphoneos-arm
 Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 2540
 Depends: firmware (>= 7.0)
-Filename: ./package_debian_A1/minivmac4ios-2.1.1.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/minivmac4ios-2.1.1.deb
 Size: 478844
 MD5sum: 8faa95837514cb203e5fc98532ff7a01
 SHA1: c0dd8a72053991b251b56faef63ef35b6b583088
@@ -1548,7 +1548,7 @@ Architecture: iphoneos-arm
 Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 3112
 Depends: firmware (>= 7.0)
-Filename: ./package_debian_A1/minivmac4ios-2.2.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/minivmac4ios-2.2.deb
 Size: 508096
 MD5sum: b175dad38b06cf60a1c01ab6acf73c1e
 SHA1: b900b18cedc3a9023cf0c149b8be6c163662a986
@@ -1565,7 +1565,7 @@ Architecture: iphoneos-arm
 Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 3136
 Depends: firmware (>= 7.0)
-Filename: ./package_debian_A1/minivmac4ios-2.2.1.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/minivmac4ios-2.2.1.deb
 Size: 512832
 MD5sum: 3b84a4d3c949007c8e6afb8abd57992a
 SHA1: 20a1c5b1442dadd9f867b3c3573015f89d01d994
@@ -1582,7 +1582,7 @@ Architecture: iphoneos-arm
 Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 3124
 Depends: firmware (>= 7.0)
-Filename: ./package_debian_A1/minivmac4ios-2.2.2.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/minivmac4ios-2.2.2.deb
 Size: 507196
 MD5sum: 88dd6e6bdec35adb1e6b901b3f8f0a28
 SHA1: 4267e38f1268df753688bbf9d96a4c9753c63d10
@@ -1599,7 +1599,7 @@ Architecture: iphoneos-arm
 Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 3124
 Depends: firmware (>= 7.0)
-Filename: ./package_debian_A1/minivmac4ios-2.2.3.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/minivmac4ios-2.2.3.deb
 Size: 507744
 MD5sum: 620b991f32309020a637f51de2a74764
 SHA1: b7ab649129007209dc858a0ea1f0482470d0f834
@@ -1616,7 +1616,7 @@ Architecture: iphoneos-arm
 Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 3676
 Depends: firmware (>= 7.0)
-Filename: ./package_debian_A1/minivmac4ios-2.2.4.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/minivmac4ios-2.2.4.deb
 Size: 549036
 MD5sum: 35793ff95d38f7c7e014bb1ea0c3a1dc
 SHA1: 83842e5dc44cc7b39254e818a01aae1b6e518c70
@@ -1633,7 +1633,7 @@ Architecture: iphoneos-arm
 Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 3684
 Depends: firmware (>= 7.0)
-Filename: ./package_debian_A1/minivmac4ios-2.3.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/minivmac4ios-2.3.deb
 Size: 563196
 MD5sum: 265b3d908ab6d67929ab63f577763f3e
 SHA1: badc2b2fb893c3f8337d5fb13076ef37af40b379
@@ -1650,7 +1650,7 @@ Architecture: iphoneos-arm
 Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 4028
 Depends: firmware (>= 7.0)
-Filename: ./package_debian_A1/minivmac4ios-2.3.1.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/minivmac4ios-2.3.1.deb
 Size: 648788
 MD5sum: e6cf026584dc1e6563b25bf751186aff
 SHA1: efc2987428674887282e8c95c3e77f39d50029e7
@@ -1667,7 +1667,7 @@ Architecture: iphoneos-arm
 Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 4184
 Depends: firmware (>= 7.0)
-Filename: ./package_debian_A1/minivmac4ios-2.3.2.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/minivmac4ios-2.3.2.deb
 Size: 735980
 MD5sum: 6a38010b8069696c93097ecaed2f004e
 SHA1: 69769250cd98317a1aa6b27ea46b074587041f1b
@@ -1684,7 +1684,7 @@ Architecture: iphoneos-arm
 Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 3820
 Depends: firmware (>= 7.0)
-Filename: ./package_debian_A1/minivmac4ios-2.4.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/minivmac4ios-2.4.deb
 Size: 721556
 MD5sum: 008e9c16bc71fbc6287c9276decc429d
 SHA1: 17ad1c5256657fee24a65d1ba08ea69fe82166cd
@@ -1701,7 +1701,7 @@ Architecture: iphoneos-arm
 Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 3504
 Depends: firmware (>= 7.0)
-Filename: ./package_debian_A1/minivmac4ios-2.5.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/minivmac4ios-2.5.deb
 Size: 527436
 MD5sum: f3e15276fd7aa4fa4798f94654f2abf5
 SHA1: 203d9970ebf04488edbcf215367a2fa74c38778a
@@ -1718,7 +1718,7 @@ Architecture: iphoneos-arm
 Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
 Installed-Size: 2272
 Depends: firmware (>= 13.4)
-Filename: ./package_debian_A1/minivmac4ios-2.6.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/minivmac4ios-2.6.deb
 Size: 291708
 MD5sum: 8c245b1cb8912a23838694b1b93ac17f
 SHA1: 7bf8e76cc2eb74a83eb39e05fa3bc59420349858
@@ -1735,7 +1735,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 236
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./package_debian_A1/netskao.alipayhooks_1.1-2_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/netskao.alipayhooks_1.1-2_iphoneos-arm.deb
 Size: 54424
 MD5sum: 6d8c2b13b9d1cdb6954461ecf06d3ba7
 SHA1: 3f8480c397f057d2239f416884f43b45b311cc0b
@@ -1752,7 +1752,7 @@ Maintainer: Nets
 Installed-Size: 556
 Depends: mobilesubstrate, firmware (>= 9.0)
 Replaces: netskao.awemepurification
-Filename: ./package_debian_A1/netskao.awemepurification_2.3-4_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/netskao.awemepurification_2.3-4_iphoneos-arm.deb
 Size: 203850
 MD5sum: af1b391d71dfaab22fa4edcc570be3f5
 SHA1: af1eb73bfd77987d114e6c08356036e8df5e2830
@@ -1768,7 +1768,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 2428
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./package_debian_A1/netskao.dumpdecrypter_1.3-7_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/netskao.dumpdecrypter_1.3-7_iphoneos-arm.deb
 Size: 528936
 MD5sum: c648d92cfc38e2ae80b46296f2800d85
 SHA1: f4b163ac249cc1326255e6963527e9a463e11df4
@@ -1784,7 +1784,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 200
 Depends: mobilesubstrate, com.tigisoftware.filza64bit | com.tigisoftware.filza
-Filename: ./package_debian_A1/netskao.filzacrack_1.1-4_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/netskao.filzacrack_1.1-4_iphoneos-arm.deb
 Size: 16662
 MD5sum: 761b9829645b7681709026dad8c122ac
 SHA1: f6c7c32241e6d1ee55c9f06b09540307bd51daac
@@ -1801,7 +1801,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 256
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./package_debian_A1/netskao.jdnoads_1.1-6_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/netskao.jdnoads_1.1-6_iphoneos-arm.deb
 Size: 82294
 MD5sum: aca615f6acaee276b4144628cd9c5fef
 SHA1: 1dccacd08a00a49b26d42a7b8c051eee518311fb
@@ -1817,7 +1817,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 880
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./package_debian_A1/netskao.qqpurification_2.0-1.3_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/netskao.qqpurification_2.0-1.3_iphoneos-arm.deb
 Size: 335902
 MD5sum: 6a93660904c7d92622a4354754e7b8e2
 SHA1: 496fe6dddf0d290291b2842ab32aa690e2ab21ec
@@ -1833,7 +1833,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 356
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/netskao.qqyynoads_1.2-1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/netskao.qqyynoads_1.2-1_iphoneos-arm.deb
 Size: 112366
 MD5sum: 74ad766d00252949a5ca0f82c64b0153
 SHA1: 8e551bf61efd5e31812248924a95e4effd02c9be
@@ -1849,7 +1849,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 2116
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./package_debian_A1/netskao.wyyyynoads_1.2-6_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/netskao.wyyyynoads_1.2-6_iphoneos-arm.deb
 Size: 417080
 MD5sum: f79c14f44141b53eb18800ee9495af70
 SHA1: eda98f9dc6d2e27ce04c7d0ea506dee2acc0620d
@@ -1865,7 +1865,7 @@ Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 152
 Depends: firmware (>= 6.0)
-Filename: ./package_debian_A1/org.thebigboss.dismissprogress_1.1.1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/org.thebigboss.dismissprogress_1.1.1_iphoneos-arm.deb
 Size: 5238
 MD5sum: e3a54711baec689ad8a831177179ea34
 SHA1: 9258aabc239dfee37cfbb9db3db33844b096340e
@@ -1880,7 +1880,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iPhoneIslam Support <info@iphoneislam.com>
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/PhoneItiPad_4.3.3_1.1.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/PhoneItiPad_4.3.3_1.1.deb
 Size: 7380348
 MD5sum: 622cf1807a3b0773f3b7d2590549b2aa
 SHA1: be0e24b89ea9bbc4c7d684063d8f7c55f3bf3f28
@@ -1897,7 +1897,7 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: iPhoneIslam Support <info@iphoneislam.com>
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/PhoneItiPad_5.0.x_2.0.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/PhoneItiPad_5.0.x_2.0.deb
 Size: 2631674
 MD5sum: ae5a152a58a327ac7b03ad888fdb23d8
 SHA1: 1711627ced16b1d6a5c76902155f61e71a9532bd
@@ -1914,7 +1914,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iPhoneIslam Support <info@iphoneislam.com>
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/PhoneItiPad_5.1.x_1.0.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/PhoneItiPad_5.1.x_1.0.deb
 Size: 2602226
 MD5sum: d0389e3028665d4f23a58b1db2bbe283
 SHA1: dd58324eac5dce1c250803903aacb5f675bc4911
@@ -1932,7 +1932,7 @@ Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Pre-Depends: firmware (>= 5.1), firmware (<= 5.1.1)
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/PhoneItiPad_5.1.x_1.0-Crack.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/PhoneItiPad_5.1.x_1.0-Crack.deb
 Size: 2092520
 MD5sum: 17d3d0849a548bb3fd1df2457c668f49
 SHA1: 352422bbe1e9cf537945882d47441184afbc3ea8
@@ -1951,7 +1951,7 @@ Maintainer: Redenfire <redenfire@gmail.com>
 Depends: firmware (>= 6.0), mobilesubstrate, com.wynd.dreamboard
 Conflicts: com.zmaster.androidlockxt, repo.biteyourapple.net.androidlockxt
 Replaces: com.zmaster.androidlockxt, repo.biteyourapple.net.androidlockxt
-Filename: ./package_debian_A1/paragon_1.0.0_iphoneos-arm.paragon.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/paragon_1.0.0_iphoneos-arm.paragon.deb
 Size: 2113572
 MD5sum: 78a926860ca9ac8f47e4204c62cb7a88
 SHA1: 87528a1f1b006fd909650f8d5ef2b54f6e149920
@@ -1970,7 +1970,7 @@ Architecture: iphoneos-arm
 Maintainer: yu
 Installed-Size: 1172
 Depends: mobilesubstrate, preferenceloader
-Filename: ./package_debian_A1/run.er.wormctrl_1.1.0_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/run.er.wormctrl_1.1.0_iphoneos-arm.deb
 Size: 181958
 MD5sum: 0dc0d6a7b8f4360032b9f5c58b7cbd2c
 SHA1: 126a16ac92818ed6388ff82c8198116d91673217
@@ -1987,7 +1987,7 @@ Architecture: iphoneos-arm
 Maintainer: Önder Azazi <onderazazi@hotmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate
 Conflicts: org.thebigboss.locationfaker8, org.thebigboss.locationchangerx, com.cunstuck.locationfakerx
-Filename: ./package_debian_A1/locationfakerx_2.8-2k.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/locationfakerx_2.8-2k.deb
 Size: 1574580
 MD5sum: bbf189f20611a8ead820ec08d6e6896c
 SHA1: 00a896c07725116441a02b2add66b85a864ffab8
@@ -2003,7 +2003,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./package_debian_A1/tf.festival.kbstretcher_1.0.0_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/tf.festival.kbstretcher_1.0.0_iphoneos-arm.deb
 Size: 7636
 MD5sum: e1cf7070fd114a42103118e7d8dc2005
 SHA1: 467ba464222e7f058186bfea424416fd66753629
@@ -2019,7 +2019,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./package_debian_A1/tf.festival.pointercontrolenabler_1.0_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/tf.festival.pointercontrolenabler_1.0_iphoneos-arm.deb
 Size: 2976
 MD5sum: 203832b5d59a57f7b1c81acb3120ddb8
 SHA1: b2066ebf08766c730485ecddd3dcc27fe614cb01
@@ -2035,7 +2035,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 748
 Depends: mobilesubstrate, preferenceloader
-Filename: ./package_debian_A1/tf.festival.rescale2_1.0_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/tf.festival.rescale2_1.0_iphoneos-arm.deb
 Size: 85508
 MD5sum: b0d667560fc7d7cf279f0b38a2875eb5
 SHA1: 02e4a56063193f1fcf31cda076fc422b94188ad6
@@ -2051,7 +2051,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 976
 Depends: mobilesubstrate, preferenceloader
-Filename: ./package_debian_A1/tf.festival.rescale2_1.0.1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/tf.festival.rescale2_1.0.1_iphoneos-arm.deb
 Size: 97292
 MD5sum: 69fe49cbfda15ced045818d3e6858ebe
 SHA1: 8953fe1c4425357b163883508b3a9e21c9db86f9
@@ -2067,7 +2067,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 976
 Depends: mobilesubstrate, preferenceloader
-Filename: ./package_debian_A1/tf.festival.rescale2_1.0.2_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/tf.festival.rescale2_1.0.2_iphoneos-arm.deb
 Size: 97230
 MD5sum: 5a2e565a2502fd23a39355567a3910bd
 SHA1: b5b4bb1ed0d9007542c6252aa67d0cd6ad767bf3
@@ -2083,7 +2083,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 976
 Depends: mobilesubstrate, preferenceloader
-Filename: ./package_debian_A1/tf.festival.rescale2_1.0.3_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/tf.festival.rescale2_1.0.3_iphoneos-arm.deb
 Size: 104190
 MD5sum: 0cda92bb912c8fe953b5451cf98c66ba
 SHA1: 49ba7deb8122d9a3bc76df6039881a8356bbdf7d
@@ -2099,7 +2099,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 976
 Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
-Filename: ./package_debian_A1/tf.festival.rescale2_1.0.4_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/tf.festival.rescale2_1.0.4_iphoneos-arm.deb
 Size: 104468
 MD5sum: eee96ccc0fd6e3fe6504a4e85e823514
 SHA1: ac1de25c5cd7c01327d94bd4be9358845dcbe95f
@@ -2115,7 +2115,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 1084
 Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
-Filename: ./package_debian_A1/tf.festival.rescale2_1.0.4-1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/tf.festival.rescale2_1.0.4-1_iphoneos-arm.deb
 Size: 126782
 MD5sum: dca7f435f07d1b110f0725c6cb38b705
 SHA1: 7667a19274d6cd315e653d9366f17cde7b295d44
@@ -2131,7 +2131,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 976
 Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
-Filename: ./package_debian_A1/tf.festival.rescale2_1.0.4-2_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/tf.festival.rescale2_1.0.4-2_iphoneos-arm.deb
 Size: 106204
 MD5sum: a29ab69bd6e765a0283cc11d7112f23f
 SHA1: d3cf058a87491cc1d926322958ca4dc3d4aa5f22
@@ -2147,7 +2147,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 1368
 Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
-Filename: ./package_debian_A1/tf.festival.rescale2_1.0.5_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/tf.festival.rescale2_1.0.5_iphoneos-arm.deb
 Size: 175468
 MD5sum: 3caa0e4d67d0d02eb5f7dfa0b3bb62f4
 SHA1: 447572417d897130818a18c4c72e1e632ee07bda
@@ -2163,7 +2163,7 @@ Architecture: iphoneos-arm
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 1368
 Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
-Filename: ./package_debian_A1/tf.festival.rescale2_1.0.5-1_iphoneos-arm.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/tf.festival.rescale2_1.0.5-1_iphoneos-arm.deb
 Size: 175842
 MD5sum: 4bf9cd78a9d38177a5df2680e7650802
 SHA1: b55690581f454be0e1cb6b5a71f75561e7d2be9c
@@ -2179,7 +2179,7 @@ Architecture: iphoneos-arm
 Maintainer: Thieu.Bocap <support@gsm.vn>
 Pre-Depends: firmware (= 3.0) | firmware (= 3.0.1) | firmware (= 3.0.2) | firmware (= 3.0.3) | firmware (= 3.0.4)
 Depends: gsmicon
-Filename: ./package_debian_A1/appsync30.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/appsync30.deb
 Size: 236812
 MD5sum: b1d6d0a38d69a0bbd45b2f810b3b5c62
 SHA1: da8cccf14c18a8f0089d834ad6cfeafbab06c08d
@@ -2198,7 +2198,7 @@ Pre-Depends: firmware (= 3.1) | firmware (= 3.1.1) | firmware (= 3.1.2) | firmwa
 Depends: gsmicon
 Conflicts: us.hackulo.appsync31
 Replaces: us.hackulo.appsync31
-Filename: ./package_debian_A1/appsync31-1.0.1.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/appsync31-1.0.1.deb
 Size: 248144
 MD5sum: b5bcd9f59213c290c7f7961dac023c86
 SHA1: 196b07cf6770b3a9cd4c02bfeb1e229b463a2a8a
@@ -2218,7 +2218,7 @@ Pre-Depends: firmware (= 3.2) | firmware (= 3.2.1) | firmware (= 3.2.2)
 Depends: gsmicon
 Conflicts: us.hackulo.appsync32
 Replaces: us.hackulo.appsync32
-Filename: ./package_debian_A1/appsync32-2-1.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/appsync32-2-1.deb
 Size: 222808
 MD5sum: 8a7cde1fc20f10f4ad9cfcc5645bbe5c
 SHA1: 606dd201f6c33c574945ad58408f36a8aae2b5d2
@@ -2236,7 +2236,7 @@ Architecture: iphoneos-arm
 Maintainer: Cydia.vn <repo@cydia.vn>
 Pre-Depends: firmware (>= 4.0), firmware(<< 4.4)
 Provides: appsync, vn.gsm.appsync40, vn.gsm.appsync41, vn.gsm.appsync42
-Filename: ./package_debian_A1/appsync40plus_1.1-6-1.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/appsync40plus_1.1-6-1.deb
 Size: 8200
 MD5sum: 7320adc326f6f88c70c1aa07c45f2407
 SHA1: d541dbe0340263b541b7ce38e7a29b79d7c240df
@@ -2258,7 +2258,7 @@ Depends: gsmicon, firmware (>= 5.0), mobilesubstrate
 Conflicts: us.hackulo.appsync50, vn.gsm.appsync50
 Replaces: us.hackulo.appsync50, vn.gsm.appsync50
 Provides: appsync, us.hackulo.appsync50plus
-Filename: ./package_debian_A1/appsync50plus_2.2-1b.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/appsync50plus_2.2-1b.deb
 Size: 4232
 MD5sum: 3e87b8757d997734f87a73e96924d69c
 SHA1: 921a5e48df0253dc0c087f766bc8061521373eb7
@@ -2281,7 +2281,7 @@ Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified
 Replaces: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified
 Provides: appsync
-Filename: ./package_debian_A1/appsyncunified_5.6-4b.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/appsyncunified_5.6-4b.deb
 Size: 80160
 MD5sum: efdb88b450120ca7ce3899f325490e5a
 SHA1: 7d3acfa7242d6965669182c52bdf6c3316ab9363
@@ -2302,7 +2302,7 @@ Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified
 Replaces: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified
 Provides: appsync
-Filename: ./package_debian_A1/appsyncunified_5.6-5b.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/appsyncunified_5.6-5b.deb
 Size: 87196
 MD5sum: b59c29819fcb9607a97a14a64fb6fdc7
 SHA1: eb52ac1454ac8fd18dfbcdc77c0b434278bc89f3
@@ -2318,7 +2318,7 @@ Package: vn.gsm.dospad
 Version: 2.0.1
 Architecture: iphoneos-arm
 Maintainer: Cydia.vn <repo@cydia.vnm>
-Filename: ./package_debian_A1/dospad_2.0.1.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/dospad_2.0.1.deb
 Size: 4151628
 MD5sum: 11de2ec981119dd617750fa7cfde1ff3
 SHA1: 0befc3691485e8f38a64bf5d038585dced59d65c
@@ -2335,7 +2335,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: EshayDev <eshay.dev@gmail.com>
 Depends: firmware (>=11.0), mobilesubstrate
-Filename: ./package_debian_A1/xyz.eshaydev.ignition.deb
+Filename: https://CydiaArchives.github.io/package_debian_A1/xyz.eshaydev.ignition.deb
 Size: 9070
 MD5sum: e5f1b06c32fad5c4cf38174cb8ff22df
 SHA1: 8ef6fe7f2344a3d973035b6372db767b2e9b69d5
