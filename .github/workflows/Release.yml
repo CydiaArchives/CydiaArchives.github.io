@@ -10,6 +10,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Setup
+        run: |
+          git config --global user.email "polarisdp@gmail.com"
+          git config --global user.name "dopaemon"
+
       - name: Clone A1 Repository
         run: |
           git clone --depth=1 https://github.com/CydiaArchives/package_debian_A1.git
