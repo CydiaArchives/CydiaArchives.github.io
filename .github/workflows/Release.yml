@@ -23,10 +23,6 @@ jobs:
         run: |
           ./sync.sh
 
-      - name: Clean Repository
-        run: |
-          rm -rf package_*
-
       - name: Commit and push changes
         uses: devops-infra/action-commit-push@master
         with:
