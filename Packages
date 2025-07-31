@@ -1,0 +1,2355 @@
+Package: FaceIt3GS-4.2.1
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Pre-Depends: firmware (= 4.2.1)
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/FaceIt-3GS_421_V1_1.deb
+Size: 456150
+MD5sum: ccec68df7905f17e31d5e671bcfc213b
+SHA1: dcc6af75cc23ca304c3c4e2483acb23f462691e9
+SHA256: 803a2be591af6d324868982c454e0afcc8e340b8c584e4160c821b886eea2e4a
+Section: Tweaks
+Homepage: http://www.iphoneislam.com
+Description: FaceTime For 3GS
+Author: iPhoneIslam <info@iphoneislam.com>
+Name: FaceIt-3GS-4.2.1 (iPhoneIslam)
+
+Package: Flex3beta
+Version: 1:3~Beta86
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./package_debian_A1/Flex3_3_Beta86.deb
+Size: 14920824
+MD5sum: fce34ff53b10f6733df7f449902cb227
+SHA1: 4d9f3723c104e256500b03e0ba7af8b38e4f1a4f
+SHA256: 2a2367571f9abbd270fd2f6d79b23244dc1bc885272ed26f1b07f4bb8dbd3b88
+Section: Tweaks
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Author: John Coates
+Name: Flex 3 Beta
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: Flex3beta
+Version: 1:3~Beta98
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./package_debian_A1/Flex3_3_Beta98.deb
+Size: 14346600
+MD5sum: 693c569e78f37e6d0e9c2e63287bc97e
+SHA1: c6b44a4c7ef73f7b68240775ee58f7591c14d2e4
+SHA256: 2b71e64db3e4b352ef73d54e76e0808bb122c614d97160bf5338b903d2d8f6a4
+Section: Tweaks
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Author: John Coates
+Name: Flex 3 Beta
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: arabtallere-ipad
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Pre-Depends: firmware (>= 3.2)
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/Arabtaller_iPad_13.deb
+Size: 12246
+MD5sum: 5884b4c59a6c1ea9e8c424f23a096d75
+SHA1: 72ef11b79e22c8e9da8cdf35d74fbe60d0bf164d
+SHA256: 775329daff63e9cd09119d5cf91fbef00db21a80c08fd928d181fe33a8d8d30f
+Section: Localization
+Homepage: http://www.iphoneislam.com
+Description: iPad Native Arabic Keyboard. Now you can read/write Arabic smoothly on all iPad apps. Note: Native Arabic Keyboard Also Supports Right To Left.
+Author: iPhoneIslam <info@iphoneislam.com>
+Depiction: http://www.iphoneislam.com/ArabtallerPlus/Cydia/iPad
+Name: Arabtaller iPad
+
+Package: com.0xilis.letmepass
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Snoolie K
+Installed-Size: 200
+Filename: ./package_debian_A1/com.0xilis.letmepass_1.5_iphoneos-arm.deb
+Size: 3694
+MD5sum: d5dbd6ce6999cef8e456b9888f7f7db0
+SHA1: 97ecbffd7ec5f57339cd6452ff35b54e52afcc1a
+SHA256: 9535ff9de6630220e214c769d744142778793752626cb5790640d12f8b01e6c2
+Section: Tweaks
+Description: Bypasses YouTube's version alert
+Author: Snoolie K
+Name: LetMePass
+
+Package: com.hackyouriphone.classiclockscreen
+Version: 3.3.1k
+Architecture: iphoneos-arm
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), curl, firmware(<< 8.0) | org.coolstar.libclassictelephonyui (>= 1.1-1)
+Filename: ./package_debian_A1/org.coolstar.classiclockscreen_3.3.1_iphoneos-arm.deb
+Size: 736186
+MD5sum: 7d5da71444883fec6d4273860d981ca3
+SHA1: 3959241070d7b0a0cd41b21a733aaa70351962e1
+SHA256: 225d085f3b8af7bd9b3f1b479efa56c9804c87e7afa322689dc676ffe83ff2ef
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=classiclockscreen
+Description: Hate the iOS 7 Lock Screen?
+Author: CoolStar, Jeremy Goulet, Phillip Tennen <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=classiclockscreen
+Name: ClassicLockScreen
+
+Package: com.iphoneislam.HijriWidget
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), preferenceloader
+Filename: ./package_debian_A1/HijriWidget_1.1-1.deb
+Size: 170244
+MD5sum: ffd74cf6455f6fb8e2cbcc2129a0c2eb
+SHA1: 3e7c2ff64803680cb13d0207a74f6ef4f3932b9b
+SHA256: 3deb71c236112635d8dbfa681360358a141e26ca9a4a7f90c35ebf20660e118e
+Section: Addons
+Priority: optional
+Homepage: http://www.iphoneislam.com
+Description: Hijri Widget By iPhoneIslam. Islamic calendar or Hijri calendar is a lunar calendar used to date events in many predominantly Muslim countries, and used by Muslims everywhere to determine the proper day on which to celebrate Islamic holy days and festivals.
+Author: iPhoneIslam
+Dev: Tarek Mansour
+Identifier: iPhoneIslam_Hijri_Widget
+Name: iPhoneIslam Hijri Widget
+
+Package: com.iphoneislam.arabtallereplus
+Version: 2.2.1-2
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Depends: mobilesubstrate (>= 0.9.2690-1), firmware (>= 2.2)
+Filename: ./package_debian_A1/ArabtallerPlus_221_2.deb
+Size: 3293736
+MD5sum: 8dcbc688e9a2dfbfcad6af2135285948
+SHA1: 8635e9b0c8febdc851a0d8e965fc42d19947baaa
+SHA256: aedc51d38a7b73756f3c644922e829394fd2120a1f6959397802c3e0b9a9d8bf
+Section: Localization
+Priority: optional
+Description: (Firmware 2.2.x Only) A full iPhone/iPod Touch Arabization. Now you can read/write Arabic, Farsi, and Urdu also other improvements to the device so that fits smoothly your Arabic needs.
+Author: iPhoneIslam <info@iphoneislam.com>
+Depiction: http://www.iphoneislam.com/ArabtallerPlus/Cydia
+Icon: file:///Applications/Arabtaller.app/icon.png
+Name: Arabtaller Plus (2.2.x)
+
+Package: com.iphoneislam.gpsineg
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Depends: firmware (>= 2.2)
+Filename: ./package_debian_A1/GPSinEG1.deb
+Size: 363850
+MD5sum: d82fee9b16df03d0729c6ae21a068cd6
+SHA1: 0ca52ebcbc851af78c931cd46c5645d7e8a51341
+SHA256: 6662514dddaa6c4f7015a603887a417d2cefefb04f91a17525fb61820c729e7b
+Section: Tweaks
+Priority: optional
+Description: At last NTRA allows GPS in Egypt. This patch will enable GPS on your iPhone 3G, Works only on firmware 2.2, 2.2.1. (Use it only if you are in Egypt and your iPhone is 3G)
+Author: iPhoneIslam <info@iphoneislam.com>
+Name: GPS in Egypt (2.2.x)
+
+Package: com.isoftru.bochs
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: isoftcom.com <isoftteamsupport@gmail.com>>
+Filename: ./package_debian_A1/bochs.deb
+Size: 36844432
+MD5sum: 2fc90234ca64aec8d45d14b938b722c9
+SHA1: a1aeb6638d3a14378b4eefca73e4e38ee1fb5275
+SHA256: b4b076aa5fe88dc2dad22b3da9a329043b5efbc3c4eefb96f57f45a0273fc382
+Section: System
+Homepage: http://isoftcom.com/
+Description: Run Windows 3.11 and Windows 95 on your iPhone. It's slow, but worked.
+Author: isoftcom.com <isoftteamsupport@gmail.com>
+Dev: isoftru
+Name: Bochs (Win95 for iPhone)
+
+Package: com.linusyang.ytbnoad
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Linus Yang
+Installed-Size: 344
+Depends: mobilesubstrate
+Conflicts: me.alfhaily.adblockforyoutube
+Filename: ./package_debian_A1/com.linusyang.ytbnoad_0.1_iphoneos-arm.deb
+Size: 50654
+MD5sum: 39e43deaa545fc126991b2fe2343d4c4
+SHA1: 848ecf5a0343fe1ac5e4b1cda292d2485938f2a5
+SHA256: 58801323e9993fa855e063a887ed63f4b84ca966a6ca83459b3d5ca4e342843f
+Section: Tweaks
+Description: remove ads in Youtube app
+Author: Linus Yang
+Name: YoutubeNoAd
+
+Package: com.litchie.aemula
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: support@litchie.com
+Filename: ./package_debian_A1/aemula.deb
+Size: 2907576
+MD5sum: 760cccc2281d5a4e7e38ab64140d8339
+SHA1: a072932267c8768d848feb27b0a8e2203b1bffe8
+SHA256: 49f3fabd4fb1c068ff7fa08ee6edd12722d092bfc424be7133cfb15824f61ed1
+Section: Games
+Homepage: http://www.aemula.net/aemula-cydia-intro.html
+Description: An 80486 PC Emulator for iOS. Mount floppy, hard disk, and CDROM images (*.iso).
+Author: litchie
+Depiction: http://www.aemula.net/aemula-cydia-intro.html
+Name: Aemula - 486 PC Emulator
+Sponsor: None
+
+Package: com.michael.appleturboboost
+Version: 0.7.0
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: firmware (>= 12.0)
+Conflicts: com.michael.appleilluminator
+Filename: ./package_debian_A1/com.michael.appleturboboost_0.7.0_iphoneos-arm.deb
+Size: 9876
+MD5sum: 3b3fb229c9efe153cdf6288963efc66a
+SHA1: d6ee79806088ed1ff10aa50e876662e09e1ecaf4
+SHA256: c593c79ecbd596793230cbb9de3dd448118d37a1f029f1904d455ffe28ee9992
+Section: System
+Description: Turbo Boost Your Apple!
+ Turbo Boost Your Apple!
+ Support iOS12~14.
+Author: Halo_Michael <yc992147156@me.com>
+Name: Apple Turbo Boost
+
+Package: com.michael.localssh
+Version: 0.4.1
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: firmware (>= 12.0), openssh(>= 8.0)
+Conflicts: com.midnightchips.localhostssh
+Replaces: com.midnightchips.localhostssh
+Provides: com.midnightchips.localhostssh
+Filename: ./package_debian_A1/com.michael.localssh_0.4.1_iphoneos-arm.deb
+Size: 7360
+MD5sum: b28df1f2b17daab8e177d67ed0884c0a
+SHA1: 77b67195b8382246d5f81861cc9c7be0b97ecaae
+SHA256: e50fc5d24e47f1ace1c8a8f5d82b3ee1ead9554c0353ac4958ecb5d1e74cf2b8
+Section: Tweaks
+Description: Enable port 2222 on localhost for OpenSSH.
+ Support Checkra1n, Chimera , Odyssey and Unc0ver.
+Author: halo_michael <yc992147156@me.com>
+Name: LocalSSH
+Sponsor: halo_michael <yc992147156@me.com>
+
+Package: com.nablac0d3.sslkillswitch2
+Version: 0.14-1+debug
+Architecture: iphoneos-arm
+Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
+Installed-Size: 108
+Depends: mobilesubstrate, preferenceloader
+Filename: ./package_debian_A1/com.nablac0d3.sslkillswitch2_0.14-1+debug_iphoneos-arm.deb
+Size: 7378
+MD5sum: dee4c65c9b19b9851477ba67767e5a7e
+SHA1: 71d5f65ed0444452394c8cebaa98ce958fe2732f
+SHA256: 37e71928c6b2f6dbaa47b850d162d21d85ba76375de9b7dbddd76252f21b3210
+Section: Tweaks
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Author: Alban Diquet <nabla.c0d3@gmail.com>
+Name: SSL Kill Switch 2
+
+Package: com.pxcex.localiapstore13
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: pxcex
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/com.pxcex.localiapstore13_0.0.2_iphoneos-arm.deb
+Size: 2684
+MD5sum: ecfd8c78d1a9f6c841715d7257cde6b3
+SHA1: 755abab6e45b47294f5181b790e36b8a37a87bbf
+SHA256: 5e0cfa0ae83c1517fbcccf0a150a6d794ffdc2696e9e6e6d4659cd96185aa9f3
+Section: Tweaks
+Description: Free In-App Purchases include app IOS 13 bypass Lock iCloud (bypass verify Passcode, Touch ID or Face ID).  No options to configure!
+Author: pxcex
+Name: LocalIAPStore13
+
+Package: com.ravirajm.torch
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/com.ravirajm.torch_1.5.2_iphoneos-arm.deb
+Size: 34688
+MD5sum: a77b7ce2b9388d5a7c9d12e663df52c5
+SHA1: 8cf8ef240cf89a83bbd25edcbc2b6b3566695e51
+SHA256: d0adfbf3b43136cc8a5b98cdff3ed18ef5b3ec7662fbb163586da98409b3c73f
+Section: Tweaks
+Priority: extra
+Homepage: http://modmyi.com/info/torch.php
+Description: Toggle LED Flash from the LockScreen.
+Author: rvirajm <rvirajm@gmail.com>
+Depiction: http://modmyi.com/info/torch.d.php
+Name: Torch
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.tigisoftware.appdatamanager
+Version: 1.6.1-10
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 9112
+Filename: ./package_debian_A1/com.tigisoftware.appdatamanager_1.6.1-10_iphoneos-arm.deb
+Size: 3677508
+MD5sum: 64ae3998d4c3e283506a5228bd8789a1
+SHA1: f5d4a2478c6611e0772ff4d9c6add68620c941d2
+SHA256: 7d8d484d669ba4e3c6e71b1a1f10cde4f9a9eed48d1103ec0acbda96f0016362
+Section: Utilities
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Author: TIGI Software
+Name: Apps Manager
+
+Package: com.tigisoftware.filza
+Version: 3.9.7-2
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 34244
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./package_debian_A1/com.tigisoftware.filza_3.9.7-2_iphoneos-arm.deb
+Size: 13679126
+MD5sum: e8795b87183bdff75a527755243d1eee
+SHA1: 6a4d0b044530b570582e37bbb053febc31a6987a
+SHA256: 3ddb509bee710a1c2106f61013446e19b6ab8ee1e7d097dcc0a6acbad155a643
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Author: TIGI Software
+Name: Filza File Manager
+
+Package: com.vsz.redeb
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: T.Herak <50dc856b@opayq.com>
+Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)
+Filename: ./package_debian_A1/com.vsz.redeb_1.0.3_iphoneos-arm.deb
+Size: 3572
+MD5sum: b5aa8718f90044be937b72d9f4e7a1f5
+SHA1: 912a6cf3cea1c725df51bb54ad4f849f27bdfa08
+SHA256: 5ec1491fdf630cdb2cbf218a10557d45e5a23271e775b066553cea543cf31c80
+Section: Utilities
+Priority: extra
+Description: Repackage any of your tweaks locally, without the need to download it from Cydia again. This is super usefull when there is an update of your until now perfectly working tweak in Cydia and you want to make a backup of the version installed. Normally you wouldn't be able to backup anything because it is possible to fetch only the most current version of your tweak and so you would be lost. Not anymore :)))
+Author: T.Herak <50dc856b@opayq.com>
+Depiction: https://wiety.github.io/cydia/depictions/?p=com.vsz.redeb
+Name: redeb
+
+Package: com.zodttd.n64ios
+Version: 0.9.0
+Architecture: iphoneos-arm
+Maintainer: ZodTTD <zodttd@zodttd.com>
+Filename: ./package_debian_A1/com.zodttd.n64ios_0.9.0_iphoneos-arm.deb
+Size: 1624068
+MD5sum: 8b23c1dc372c58d015b00de98907aebd
+SHA1: 686a41d4f55c53f03e596e14b3b23ff2942fab8a
+SHA256: e597485ec30ee9c211ffa83820ec0e6bebd253b917015933528764b7e9e109f5
+Section: Games
+Homepage: http://www.zodttd.com
+Description: Nintendo 64 (N64) emulator for all iOS 3/4/5!
+Tag: cydia::commercial
+Author: ZodTTD
+Depiction: http://www.zodttd.com/repo/cydiathemes/depiction/n64ios/index.php
+Name: n64ios
+
+Package: faceit3gs-4.3.3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Pre-Depends: firmware (= 4.3.3)
+Depends: faceit3gslib-4.3.3
+Filename: ./package_debian_A1/FaceIt-3GS_433_V1_0.deb
+Size: 248274
+MD5sum: 89268c81e433564c7fb78efdd8f1bfe8
+SHA1: 920e9001cdef2bbb341ba9e1cda97b719afae7dc
+SHA256: 07ee98e5202bd9916d8ec9caf002585a36334f0ef7636f6a1e3b512f1179d14b
+Section: Tweaks
+Priority: standard
+Homepage: http://www.iphoneislam.com
+Description: FaceTime For 3GS
+Author: iPhoneIslam <info@iphoneislam.com>
+Name: FaceIt-3GS-4.3.3 (iPhoneIslam)
+
+Package: faceit3gslib-4.3.3
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Pre-Depends: firmware (= 4.3.3)
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/FaceIt-3GS_Lib_433_V1_1.deb
+Size: 519652
+MD5sum: 43140d9cf614f95f4ec091502ffc465e
+SHA1: 697a4aaeea46b7bd8884496e0c214f0100bbce27
+SHA256: 9f5cd52ff5f00b25097e715c8fb9a13381e3ea317b09661ed477113f96eb5a29
+Section: System
+Priority: optional
+Homepage: http://www.iphoneislam.com
+Description: FaceTime For 3GS
+Author: iPhoneIslam <info@iphoneislam.com>
+Name: FaceIt-3GS-Lib-4.3.3
+
+Package: facetime-hacktivator
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Pre-Depends: firmware (>= 4.1)
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/II_FT_Hacktivator_2_0.deb
+Size: 2514
+MD5sum: e95172bb856a61df268daf557633de6b
+SHA1: 00667657a3fd647ef6151d3e749b62497aa74a66
+SHA256: 2bcfec7199fcfeaa0bfd0802195a5c251ba988be06d4f09c538abdc41877246a
+Section: Tweaks
+Homepage: http://www.iphoneislam.com
+Description: FaceTime Hacktivator Enabled FaceTime on iPhone 4 (This will not activate FT, it only shows it on phone settings if Apple blocked it in your country)
+Author: iPhoneIslam <info@iphoneislam.com>
+Name: FaceTime Hacktivator (iPhoneIslam)
+
+Package: kr.xsf1re.flyjbx
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 1580
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb
+Filename: ./package_debian_A1/kr.xsf1re.flyjbx_1.2.5_iphoneos-arm.deb
+Size: 766032
+MD5sum: 3ab29ed23676b458046ff0fb67cff34c
+SHA1: 33a4928e1555362901535e940745c18b43258d80
+SHA256: 91239f1f9579e45dcb117f6848ad6cbaa3360b00149cdceab6ce5cb3ec6cf534
+Section: Tweaks
+Description: You can HIDE Doing jailbreak your iDevice.
+Author: XsF1re
+Name: FlyJB X
+
+Package: ml.festival.4kdegkelvin
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/ml.festival.4kdegkelvin_0.0.2_iphoneos-arm.deb
+Size: 5412
+MD5sum: db6f1e791946150079479f08da2b8b73
+SHA1: ad63b9f753012f2750ac972c19d55fd368055737
+SHA256: dd94cb262b013b925b469449e8c740fa863dd650c0c2a4905add99d71151e25c
+Section: Tweaks
+Description: Shows your weather in Kelvin instead of Celsius/Fahrenheit
+Author: Sniper_GER
+Depiction: https://repo.festival.ml/depiction/ml.festival.4kdegkelvin
+Name: Kelvin
+
+Package: ml.festival.blurred
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./package_debian_A1/ml.festival.blurred_0.0.2_iphoneos-arm.deb
+Size: 3042
+MD5sum: 9f0c22143e5c04b3134cadf9e4b1daca
+SHA1: f20521bfb99102076c0f61d36a563250650e858c
+SHA256: 54d12003c84c5bcd5e3107a6e7299603bd01d9cf63e65371b14020f9a0a6fa5e
+Section: Tweaks
+Description: Improving iOS 11’s blurred folders
+Author: Sniper_GER <sniperger@festival.ml>
+Depiction: https://repo.festival.ml/#/package/ml.festival.folderblur
+Name: Blur’d
+
+Package: ml.festival.erie
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 296
+Depends: mobilesubstrate, gsc.telephony, ws.hbang.common
+Filename: ./package_debian_A1/ml.festival.erie_0.5_iphoneos-arm.deb
+Size: 21408
+MD5sum: 859b805e3527436fced0956f5a327808
+SHA1: d76f9f249d1578be6f317034ac77fc00ad34bcf9
+SHA256: a84fb45c2df29b62eda2c68ddab2469ea6d2a45526ef3f06d60572c6e0f02566
+Section: Tweaks
+Description: Haptic feedback when pressing buttons. Inpspired by iPhone 7.
+Author: Sniper_GER <sniperger@festival.ml>
+Depiction: https://repo.festival.ml/depiction/ml.festival.erie
+Name: Erie
+
+Package: ml.festival.erie
+Version: 0.5-1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 296
+Depends: mobilesubstrate, gsc.telephony, ws.hbang.common
+Filename: ./package_debian_A1/ml.festival.erie_0.5-1_iphoneos-arm.deb
+Size: 21398
+MD5sum: 71e1867be43c39ea61ec527d772a42bc
+SHA1: 0179aefcc2f744ecdebf8079fde70f02682f2d18
+SHA256: cce4a9237757ae65e7282a12c2085a1f4c11700455c909a1d4be08eb6fdb0d81
+Section: Tweaks
+Description: Haptic feedback when pressing buttons. Inpspired by iPhone 7.
+Author: Sniper_GER <sniperger@festival.ml>
+Depiction: https://repo.festival.ml/depiction/ml.festival.erie
+Name: Erie
+
+Package: ml.festival.erie
+Version: 0.6
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 276
+Depends: mobilesubstrate, gsc.telephony, ws.hbang.common
+Filename: ./package_debian_A1/ml.festival.erie_0.6_iphoneos-arm.deb
+Size: 20834
+MD5sum: b0ce8fe5c90847be66d1a216d41fa2fc
+SHA1: dbbad0c2de2eba5302695a73a19e589376b944f6
+SHA256: 86c68f47e45686ea513b393a0ba12a837e3f7bd7533fb3e30757f1c4255c3a15
+Section: Tweaks
+Description: Haptic feedback when pressing buttons. Inpspired by iPhone 7.
+Author: Sniper_GER <sniperger@festival.ml>
+Depiction: https://repo.festival.ml/depiction/ml.festival.erie
+Name: Erie
+
+Package: ml.festival.erie
+Version: 0.7
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 176
+Depends: mobilesubstrate, gsc.telephony, ws.hbang.common
+Filename: ./package_debian_A1/ml.festival.erie_0.7_iphoneos-arm.deb
+Size: 16862
+MD5sum: cf2efc5c838c6af4c2309dfb6dff6f3e
+SHA1: 104699a84f8ea7343f9f71f819de4419b8b4a070
+SHA256: b2fa52e6343d5a5e0b6be83f102931e72150cfb9e35180bc3f21593f09f7e4da
+Section: Tweaks
+Description: Haptic feedback when pressing buttons. Inpspired by iPhone 7.
+Author: Sniper_GER <sniperger@festival.ml>
+Depiction: https://repo.festival.ml/depiction/ml.festival.erie
+Name: Erie
+
+Package: ml.festival.globalwarmingnomore
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 148
+Depends: mobilesubstrate
+Conflicts: cy+model.ipad
+Filename: ./package_debian_A1/ml.festival.globalwarmingnomore_1.0_iphoneos-arm.deb
+Size: 31188
+MD5sum: 0914a9554df76617dae58b268f59d17b
+SHA1: 6d9505b67e7db16129a899c4a84c63a592172a46
+SHA256: 8eb8203f2de408ca874ed68721dc946e9f4dccd713b138a4abb2f3fceab0ee3e
+Section: Tweaks
+Description: Well boys, we did it. Global Warming is no more!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: GlobalWarmingNoMore
+
+Package: ml.festival.globalwarmingnomore
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 220
+Depends: mobilesubstrate
+Conflicts: cy+model.ipad
+Filename: ./package_debian_A1/ml.festival.globalwarmingnomore_1.0-1_iphoneos-arm.deb
+Size: 44472
+MD5sum: 4245f33af94c1a173a1590e7f1d9961f
+SHA1: 1c0683faa79b0ce45a199dfcbe4f61fb2ddfcb22
+SHA256: ae2fb1a4f8aebeaaecdcd67b126efef3c6c77e4a28f8b8081c9f9bfc3fa4cbd6
+Section: Tweaks
+Description: Well boys, we did it. Global Warming is no more!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: GlobalWarmingNoMore
+
+Package: ml.festival.globalwarmingnomore
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 440
+Depends: mobilesubstrate
+Conflicts: cy+model.ipad
+Filename: ./package_debian_A1/ml.festival.globalwarmingnomore_1.1_iphoneos-arm.deb
+Size: 65160
+MD5sum: 558e719f493a6923d62cff63f2ac46ef
+SHA1: 72c37153c55765797d207d007227e485d01514b4
+SHA256: 618734a0a8c30c503829da863b87c10cf2b30f75213e6b058366f50e7c63c26b
+Section: Tweaks
+Description: Well boys, we did it. Global Warming is no more!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: GlobalWarmingNoMore
+
+Package: ml.festival.libweathermanager
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 500
+Filename: ./package_debian_A1/ml.festival.libweathermanager_0.0.1_iphoneos-arm.deb
+Size: 64106
+MD5sum: 042893ce90624a240b02a02968d413a1
+SHA1: 057c016bfc721f0f7ededb3720d0dddddc9a5beb
+SHA256: a24f9834829bc47bffc909bc2705e9f1869276633f4575eca852b24995dd1283
+Section: System
+Description: This library gets Weather data. Should work on iOS 9 and 10
+Author: Sniper_GER <sniperger@festival.ml>
+Depiction: https://repo.festival.ml/depiction/ml.festival.libweathermanager
+Name: libWeatherManager
+
+Package: ml.festival.lockwatch10
+Version: 18w07b.lw-internal.180218
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER
+Installed-Size: 3984
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: ml.festival.lockwatch
+Filename: ./package_debian_A1/ml.festival.lockwatch10_18w07b.lw-internal.180218_iphoneos-arm.deb
+Size: 1270440
+MD5sum: b93faffa3947ccd975e777636c5cadf2
+SHA1: b1adae534158b0311ef14e97f15a979d2175ee3a
+SHA256: 64f2d24fcf348227f6cc18b4cfca2883d23860df140fbf7c671a638b108404d5
+Section: Tweaks
+Description: LockWatch
+Author: Sniper_GER
+Depiction: https://repo.festival.ml/depiction/ml.festival.lockwatch10
+Name: LockWatch Internal
+
+Package: ml.festival.lockwatch10
+Version: 18w09a.lw-internal.180228
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER
+Installed-Size: 4064
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: ml.festival.lockwatch
+Filename: ./package_debian_A1/ml.festival.lockwatch10_18w09a.lw-internal.180228_iphoneos-arm.deb
+Size: 1350200
+MD5sum: 6024c4f3168b40875a74831a1d98f4cf
+SHA1: ac74e6dc2d119f051568c418bc7e9fde828063c7
+SHA256: 49dd143fdbd49cdd84fe6345eddb170a35f27cbf3ad43e710080068180d9de68
+Section: Tweaks
+Description: LockWatch
+Author: Sniper_GER
+Depiction: https://repo.festival.ml/depiction/ml.festival.lockwatch10
+Name: LockWatch Internal
+
+Package: ml.festival.lockwatch10
+Version: 18w12a.lw-release.180320
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER
+Installed-Size: 4628
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: ml.festival.lockwatch, firmware (>= 11.0)
+Filename: ./package_debian_A1/ml.festival.lockwatch10_18w12a.lw-release.180320_iphoneos-arm.deb
+Size: 1387102
+MD5sum: 127768ee714ae7b574d04799564821f8
+SHA1: a9c4c0f8f5b55d3227f29abd244a5ccca94dd89b
+SHA256: 49895f0f26c6e095353a1aab798542e29889a0dcec080b9160cd41a8493b3ee8
+Section: Tweaks
+Description: LockWatch
+Author: Sniper_GER
+Depiction: https://repo.festival.ml/depiction/ml.festival.lockwatch10
+Name: LockWatch
+
+Package: ml.festival.lockwatch2
+Version: 2.0b1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 288
+Depends: mobilesubstrate
+Conflicts: gsc.ipad
+Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0b1_iphoneos-arm.deb
+Size: 52768
+MD5sum: b52c0ec31ccc65a105f6b84876d53c38
+SHA1: bb31c31632e23130e1c41bab530ba4364e865c2b
+SHA256: 1a7b4c9be6518cbbc9eee84db46c1d9dbc4db2b6c7cd5f77cc6cc57ca4e5cd4f
+Section: Tweaks
+Description: The idea of having an Apple Watch on your lock screen – continued
+Author: Sniper_GER <sniperger@festival.ml>
+Name: LockWatch 2 (iOS 13)
+
+Package: ml.festival.lockwatch2
+Version: 2.0b2
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 1376
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0b2_iphoneos-arm.deb
+Size: 233140
+MD5sum: fe7337be85104761d47aa1e4f2a2bc85
+SHA1: 60a755f876ab5b8bc975ebcb8713dfec79db5cc8
+SHA256: 18ab7908993b60e5e520ad46a6651e7e155f2e5e1e2c3c1d0bd1735f73fcc88e
+Section: Tweaks
+Description: The idea of having an Apple Watch on your lock screen – continued
+Author: Sniper_GER <sniperger@festival.ml>
+Name: LockWatch 2 Beta (iOS 13)
+
+Package: ml.festival.lockwatch2
+Version: 2.0b2-1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 1432
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0b2-1_iphoneos-arm.deb
+Size: 235912
+MD5sum: bb07ebd5c3fab4baaa365b57d12de895
+SHA1: aac908c27e33ed1be2d9273bc6c8637e6773d7d3
+SHA256: f8e848f079ba9b1cdfd5b08c74c6b1631b4c69bbe8e1d2692db62a64c8aea681
+Section: Tweaks
+Description: The idea of having an Apple Watch on your lock screen – continued
+Author: Sniper_GER <sniperger@festival.ml>
+Name: LockWatch 2 Beta (iOS 13)
+
+Package: ml.festival.lockwatch2
+Version: 2.0b2-2
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 1436
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0b2-2_iphoneos-arm.deb
+Size: 235944
+MD5sum: 7b774481c2d06b91fdd172ab09d6158e
+SHA1: d1d89bb49615235127eaaacfa2fe98d820c11f7f
+SHA256: bb773fa4da35df883f6637b474ea2124f0fbe8dd87783f88f0b829556a8f6c5b
+Section: Tweaks
+Description: The idea of having an Apple Watch on your lock screen – continued
+Author: Sniper_GER <sniperger@festival.ml>
+Name: LockWatch 2 Beta (iOS 13)
+
+Package: ml.festival.lockwatch2
+Version: 2.0b3
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 1708
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0b3_iphoneos-arm.deb
+Size: 267550
+MD5sum: 75871f7eb2179b5bcf5cc913cdcebded
+SHA1: eac8a8685102f2023c82fc2a537169be2c02b4af
+SHA256: 8ac2853ab9fa7d5e52adb8a93333317ee9b2cbbe75e3d8f82c1470a730ed4448
+Section: Tweaks
+Description: The idea of having an Apple Watch on your lock screen – continued
+Author: Sniper_GER <sniperger@festival.ml>
+Name: LockWatch 2 Beta (iOS 13)
+
+Package: ml.festival.lockwatch2
+Version: 2.0b3-u1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 8828
+Depends: mobilesubstrate, preferenceloader
+Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0b3-u1_iphoneos-arm.deb
+Size: 7095016
+MD5sum: cd8aa107dc49ffeca170e93988d57d3b
+SHA1: ad3bac9b4d511ee187c3291a099732d3e0bf0e4c
+SHA256: 893ae6bf0660af62dc1398a355c1e714618ce274e42e44aafa8d4a2c5fdc3e39
+Section: Tweaks
+Description: The idea of having an Apple Watch on your lock screen – continued
+Author: Sniper_GER <sniperger@festival.tf>
+Name: LockWatch 2 Beta (iOS 13)
+
+Package: ml.festival.lockwatch2
+Version: 2.0b3-u2
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 9096
+Depends: mobilesubstrate, preferenceloader
+Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0b3-u2_iphoneos-arm.deb
+Size: 7144928
+MD5sum: fe3b44002bb4701a014d4c2c369d2af5
+SHA1: fa7da83269c5f2ed5d667cc9fdd8642e3f4ae6f2
+SHA256: 06447ad473503e4641c842d8d1686176c6e962afa43c72b66d49bde9b0c75351
+Section: Tweaks
+Description: The idea of having an Apple Watch on your lock screen – continued
+Author: Sniper_GER <sniperger@festival.tf>
+Name: LockWatch 2 Beta (iOS 13)
+
+Package: ml.festival.lockwatch2
+Version: 2.0b4
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 9148
+Depends: mobilesubstrate, preferenceloader
+Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0b4_iphoneos-arm.deb
+Size: 7157548
+MD5sum: d29ddd871a837a83537bd03d30b31ccd
+SHA1: f2d65378d3c5004fdf1efe107773d211e8a57e11
+SHA256: 5905239318338a80eb21fcb35ee82b5a28a50e6d291af695afd11a0b569a55e0
+Section: Tweaks
+Description: The idea of having an Apple Watch on your lock screen – continued
+Author: Sniper_GER <sniperger@festival.tf>
+Name: LockWatch 2 Beta (iOS 13)
+
+Package: ml.festival.lockwatch2
+Version: 2.0b4-u1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 9152
+Depends: mobilesubstrate, preferenceloader
+Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0b4-u1_iphoneos-arm.deb
+Size: 7159056
+MD5sum: 69cfa2d6d3e771d406dcef572925bbaf
+SHA1: c30598ac65363830c620b6e555adba48e7f134db
+SHA256: d5b08ee3bcbd670931b4fc36e3d2e1f9e5cf5969ba538a4c16963ee9d5927ff1
+Section: Tweaks
+Description: The idea of having an Apple Watch on your lock screen – continued
+Author: Sniper_GER <sniperger@festival.tf>
+Name: LockWatch 2 Beta (iOS 13)
+
+Package: ml.festival.lockwatch2
+Version: 2.0f
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 48612
+Depends: mobilesubstrate, preferenceloader
+Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0f_iphoneos-arm.deb
+Size: 46928684
+MD5sum: acdf2372845990e9ff4eae0f1ac5835d
+SHA1: c48db918e864732dfbded45e60c37ec02095c5ba
+SHA256: 2b752208c09d76fb7bffbc5d6a8b93aab4a45c0ec3b5f2e4d06a8228c882bbd5
+Section: Tweaks
+Description: The idea of having an Apple Watch on your lock screen – continued
+Author: Sniper_GER <sniperger@festival.tf>
+Name: LockWatch 2 Beta (iOS 13)
+
+Package: ml.festival.lockwatch2
+Version: 2.0f-2
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 33832
+Depends: mobilesubstrate, preferenceloader
+Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0f-2_iphoneos-arm.deb
+Size: 30768768
+MD5sum: 893e1a4aa0d4b9767fd0d4e1e07494cf
+SHA1: 54cc8c7eb8b963e62dd16efaede9090770fb9535
+SHA256: bfc4b52d2e33043eb38d01d7a210db32728834c80f46c94285799a1bcc0cfd50
+Section: Tweaks
+Description: The idea of having an Apple Watch on your lock screen – continued
+Author: Sniper_GER <sniperger@festival.tf>
+Name: LockWatch 2 (iOS 13)
+
+Package: ml.festival.lockwatch2
+Version: 2.0f-3
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 20660
+Depends: mobilesubstrate, preferenceloader
+Filename: ./package_debian_A1/ml.festival.lockwatch2_2.0f-3_iphoneos-arm.deb
+Size: 16836712
+MD5sum: b49cc184b360fccf93209cacec1f95d8
+SHA1: f078d87279e7d269d48f5fb56c070a0426d223e4
+SHA256: 1082e3c8894b7d4442a909d1f0d42d4eae7252589fa649014749d379c91f6983
+Section: Tweaks
+Description: The idea of having an Apple Watch on your lock screen – continued
+Author: Sniper_GER <sniperger@festival.tf>
+Name: LockWatch 2 (iOS 13)
+
+Package: ml.festival.lockwatch2
+Version: 2.1-b1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 6300
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./package_debian_A1/ml.festival.lockwatch2_2.1-b1_iphoneos-arm.deb
+Size: 592414
+MD5sum: dbe655575bc77e3e73ef09e09b182218
+SHA1: ff1f083a6ce874e81334f5d6ef80ffc50f6044eb
+SHA256: b4652b4da2c72833a158f286c9ef666ef64a2924296e9738ea9bcd17f3c101f6
+Section: Tweaks
+Description: The idea of having an Apple Watch on your lock screen – continued
+Author: Sniper_GER <sniperger@festival.tf>
+Name: LockWatch 2 Beta (iOS 13/14)
+
+Package: ml.festival.lockwatch2.bands.s4
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Team FESTIVAL <weare@festival.tf>
+Installed-Size: 1848
+Depends: ml.festival.lockwatch2 (>= 2.1-b1)
+Filename: ./package_debian_A1/ml.festival.lockwatch2.bands.s4_1.0_iphoneos-arm.deb
+Size: 1718472
+MD5sum: c0092043cba9eefa9087f62dc64e15a2
+SHA1: 00896f5f3d1473a0f8b8ed30ad4bfb937cf557e9
+SHA256: 64456b99dc01271f844b50012915e994d17290949efe720bc82d69dd5b260c4d
+Section: Themes
+Description: An incomplete collection of Apple Watch Bands released for Series 4 and earlier
+Author: Sniper_GER <sniperger@festival.tf>
+Name: LockWatch 2 Bands - Series 4
+
+Package: ml.festival.lockwatch2.cases.s3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Team FESTIVAL <weare@festival.tf>
+Installed-Size: 268
+Depends: ml.festival.lockwatch2 (>= 2.1-b1)
+Filename: ./package_debian_A1/ml.festival.lockwatch2.cases.s3_1.0_iphoneos-arm.deb
+Size: 169824
+MD5sum: e21eac6fe3a4ad3cc63b63aef11d6863
+SHA1: 3048695583ee51d2e9a60a2eb5f879e8436a9b17
+SHA256: 93fa34182f9f22c8761fe938866961553d214cbb7e84973ae97a36e2b49e8199
+Section: Themes
+Description: Apple Watch Series 3 (and earlier) cases for LockWatch 2
+Author: Sniper_GER <sniperger@festival.tf>
+Name: LockWatch 2 Cases - Series 3
+
+Package: ml.festival.lockwatch2.cases.s5
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Team FESTIVAL <weare@festival.tf>
+Installed-Size: 372
+Depends: ml.festival.lockwatch2 (>= 2.1-b1)
+Filename: ./package_debian_A1/ml.festival.lockwatch2.cases.s5_1.0_iphoneos-arm.deb
+Size: 250036
+MD5sum: 903ca7ea1aabfceb6c561c5972784c8d
+SHA1: e92dc159e8ab3babc95b493d73df0731d8479c28
+SHA256: a7d58f53d1de8eead5de2244b438caf158f390302d63dc7f8ff438d24c7a2166
+Section: Themes
+Description: Apple Watch Series 5 cases for LockWatch 2
+Author: Sniper_GER <sniperger@festival.tf>
+Name: LockWatch 2 Cases - Series 5
+
+Package: ml.festival.lockwatch2.cases.s6
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Team FESTIVAL <weare@festival.tf>
+Installed-Size: 536
+Depends: ml.festival.lockwatch2 (>= 2.1-b1)
+Filename: ./package_debian_A1/ml.festival.lockwatch2.cases.s6_1.0_iphoneos-arm.deb
+Size: 307660
+MD5sum: 41fd923af413779e7bf5cd5989246f09
+SHA1: 98973f5f66737204f0a7cbedfe1cfd81cfc68700
+SHA256: 34cf7b5f90f536611c567c4f0467ed2a019d120a4a822af629f96cdff18f95dc
+Section: Themes
+Description: Apple Watch Series 6 cases for LockWatch 2
+Author: Sniper_GER <sniperger@festival.tf>
+Name: LockWatch 2 Cases - Series 6
+
+Package: ml.festival.lockwatch2.faces
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 244
+Depends: ml.festival.lockwatch2 (>= 2.0b4)
+Filename: ./package_debian_A1/ml.festival.lockwatch2.faces_1.0_iphoneos-arm.deb
+Size: 72952
+MD5sum: 85c724ac936d676da2a683d816580333
+SHA1: 716b3b27dfe21eb54b024d923e0c6aa8354eadf0
+SHA256: 6c0bf7e3825b5b8f80629e8067fb916ff3ab4388c2a3a86dad86ea8f82744a72
+Section: Themes
+Description: Custom watch faces for LockWatch 2, created by Team FESTIVAL
+Author: Sniper_GER <sniperger@festival.tf>
+Name: LockWatch2CustomFaces
+
+Package: ml.festival.medusa
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/ml.festival.medusa_0.1_iphoneos-arm.deb
+Size: 4360
+MD5sum: b2c2265ada4248d0c28f0b00f0199891
+SHA1: 2e7aca007394cfa4aaab0bcbf944af9428cdbc3f
+SHA256: 13adc38995749f2aeb0dc8a8abcf4f42bd8c2a760e7978097c4bd198952c6a1b
+Section: Tweaks
+Description: Enable Slide Over on iPhone and unsupported iPads
+Author: Sniper_GER
+Depiction: https://repo.festival.ml/depiction/ml.festival.medusa
+Name: Medusafied
+
+Package: ml.festival.mgcopyanswerdump
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 172
+Filename: ./package_debian_A1/ml.festival.mgcopyanswerdump_0.1_iphoneos-arm.deb
+Size: 36926
+MD5sum: 1b04709888ab5ee4975ff6b6fe79d95d
+SHA1: b3a76beb9006c7b3f8becb8e64e9d8052f92639a
+SHA256: b086f54dc3bd15714363ed26e01716a97480f27f6ee079c65253ab88417edd79
+Section: Utilities
+Description: An awesome application!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: MGCopyAnswerDump
+
+Package: ml.festival.mgcopyanswerdump
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 172
+Filename: ./package_debian_A1/ml.festival.mgcopyanswerdump_0.1-1_iphoneos-arm.deb
+Size: 36902
+MD5sum: f9037c89a95c4586f1b804fd40eb84f9
+SHA1: 3e7dbbde47555364fac7b4d69f371ff70d128a6f
+SHA256: dd0b4e3fb53e3f3c4f788a70e2770c0cce23c02d788bd4fa155431bf3f99416f
+Section: Utilities
+Description: Dump MobileGestalt keys
+Author: Sniper_GER <sniperger@festival.ml>
+Name: MGCopyAnswerDump
+
+Package: ml.festival.mgcopyanswerdump
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 304
+Filename: ./package_debian_A1/ml.festival.mgcopyanswerdump_1.1_iphoneos-arm.deb
+Size: 85578
+MD5sum: cf984ef27b53ec92d7df78a3ec0a1936
+SHA1: e7b1c5e941aff4555be27920f6f8f1344ee07cd6
+SHA256: 63fbff532f9346bce6b8984c52e31ad7c2a8a9ef5ad2db80d1941b2cf39d822a
+Section: Utilities
+Description: Dump MobileGestalt keys
+Author: Sniper_GER <sniperger@festival.ml>
+Name: MGCopyAnswerDump
+
+Package: ml.festival.notchsimulator
+Version: 0.2-6
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER
+Installed-Size: 260
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./package_debian_A1/ml.festival.notchsimulator_0.2-6_iphoneos-arm.deb
+Size: 32442
+MD5sum: 40e49204a6443f584c4845f5a89b498d
+SHA1: 94f08ee11bc02fc90f53297d563c9b96b5ad63c7
+SHA256: 40cf8435f6d24f66cd0ca77d225cf0d45ec0fac5f275a6e38e1305d0fdc0c085
+Section: Tweaks
+Description: Simulate that iPhone X notch!
+Author: Sniper_GER
+Depiction: https://repo.festival.ml/depiction/ml.festival.notchsimulator
+Name: Notch'd
+
+Package: ml.festival.notchsimulator
+Version: 0.3-1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 728
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/ml.festival.notchsimulator_0.3-1_iphoneos-arm.deb
+Size: 120676
+MD5sum: a24cd7a0121d724961a29013b0a3dfb3
+SHA1: 9865ba8b8456ce2da340c5da5261b7f099d8c1a2
+SHA256: 580b7be4b20b70d411bb3334ca108c579af8534b169f22c064ad5571a3a9e11c
+Section: Tweaks
+Description: Simulate that iPhone X notch!
+Author: Sniper_GER <sniperger@festival.ml>
+Depiction: https://repo.festival.ml/depiction/ml.festival.notchsimulator
+Name: Notch'd
+
+Package: ml.festival.notchsimulator
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 804
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/ml.festival.notchsimulator_0.5_iphoneos-arm.deb
+Size: 131742
+MD5sum: 87ceb87e440311f3ae57fa7e5e45c260
+SHA1: a00de13602b4ff0beaad3615cad81a0c70d39ef0
+SHA256: f684d720425ffc4f9a478dfb78b826a8ed1782a112e17b02f34b9817b2755afa
+Section: Tweaks
+Description: Simulate that iPhone X notch!
+Author: Sniper_GER <sniperger@festival.ml>
+Compatible_max: :11.3.1
+Compatible_min: :11.0
+Depiction: https://repo.festival.ml/depiction/ml.festival.notchsimulator
+Name: NotchSimulator
+
+Package: ml.festival.notchsimulator
+Version: 0.5-1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 804
+Depends: mobilesubstrate, preferenceloader
+Filename: ./package_debian_A1/ml.festival.notchsimulator_0.5-1_iphoneos-arm.deb
+Size: 131740
+MD5sum: 69d04085cd6238f1700d5a29955036dc
+SHA1: 3004098915038a13fe591f540eb8b4589dd7fe18
+SHA256: d0a6cd3bc308c893a77ce796c59ce055290b0307c677980247c11dd23e90197c
+Section: Tweaks
+Description: Simulate that iPhone X notch!
+Author: Sniper_GER <sniperger@festival.ml>
+Compatible_max: :11.3.1
+Compatible_min: :11.0
+Depiction: https://repo.festival.ml/depiction/ml.festival.notchsimulator
+Name: NotchSimulator
+
+Package: ml.festival.notchsimulator
+Version: 0.6-RC1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 720
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/ml.festival.notchsimulator_0.6-RC1_iphoneos-arm.deb
+Size: 116572
+MD5sum: 17116aed33d705609f31ddc99231470e
+SHA1: a6f34ee2a809a8b2aecbb252565c9f1f355ae0e2
+SHA256: d1cc9b99750b894859812a24aded7839a6687e840f1bef6b176795e3d9efd43b
+Section: Tweaks
+Description: Simulate that iPhone X notch!
+Author: Sniper_GER <sniperger@festival.ml>
+Compatible_max: :11.3.1
+Compatible_min: :11.0
+Depiction: https://repo.festival.ml/#/package/ml.festival.notchsimulator
+Name: Notch'd
+
+Package: ml.festival.notchsimulator
+Version: 0.6-RC2
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 716
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/ml.festival.notchsimulator_0.6-RC2_iphoneos-arm.deb
+Size: 122680
+MD5sum: 33ea38b7fc004ad9c3fc9aec4c58b024
+SHA1: 3a21105c719b25ea1d54af790f4262893d7a7bc8
+SHA256: 6c1942c7bf08943b03a410748bc47cf63a06531a230c42d1b5c2a2486d33c84e
+Section: Tweaks
+Description: Simulate that iPhone X notch!
+Author: Sniper_GER <sniperger@festival.ml>
+Compatible_max: :11.3.1
+Compatible_min: :11.0
+Depiction: https://repo.festival.ml/#/package/ml.festival.notchsimulator
+Name: Notch'd
+
+Package: ml.festival.notchsimulator
+Version: 0.7
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 1728
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/ml.festival.notchsimulator_0.7_iphoneos-arm.deb
+Size: 466502
+MD5sum: 732441ed2861fb1e34025c966eac7471
+SHA1: 2b5baadf2cd86ef2d40ae227a887fe05f265d1de
+SHA256: 5213a1d644b5dd89bb3205db100a2345b4b21bcaabccd110c55415cbcb00c170
+Section: Tweaks
+Description: Simulate that iPhone X notch!
+Author: Sniper_GER <sniperger@festival.ml>
+Compatible_max: :11.3.1
+Compatible_min: :11.0
+Depiction: https://repo.festival.ml/#/package/ml.festival.notchsimulator
+Name: Notch'd
+
+Package: ml.festival.notchsimulator
+Version: 0.7-1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 1772
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/ml.festival.notchsimulator_0.7-1_iphoneos-arm.deb
+Size: 477726
+MD5sum: 594304548ffbea45409bb037c28bc5e6
+SHA1: 09e64f7ae92c65360f5d80d864da45989f118914
+SHA256: d6d847fd1039175f859962fcaf80eb9ddc0ab784d56b3f0d28990e16def0680f
+Section: Tweaks
+Description: Simulate that iPhone X notch!
+Author: Sniper_GER <sniperger@festival.ml>
+Compatible_max: :11.3.1
+Compatible_min: :11.0
+Depiction: https://repo.festival.ml/#/package/ml.festival.notchsimulator
+Name: Notch'd
+
+Package: ml.festival.notchsimulatorxr
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/ml.festival.notchsimulatorxr_1.4_iphoneos-arm.deb
+Size: 3862
+MD5sum: 6266ac4abb9be06f194414098330e847
+SHA1: b639f660c0f796e80dd702226524e6f1174f6f60
+SHA256: 8f232a05337fae800cd2744f5d08fa824f798e636d6baa4599949d80bad857be
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: Notch’d for iOS 12
+
+Package: ml.festival.proudlock
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 512
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: gsc.main-screen-width (= 1125), gsc.main-screen-height (= 2436)
+Filename: ./package_debian_A1/ml.festival.proudlock_0.1-2_iphoneos-arm.deb
+Size: 78750
+MD5sum: 48aec53193870519457742c008958cf8
+SHA1: 75d3f035335c2fa101a9fe965d7e1cf673c761ba
+SHA256: 057a012cb8d1af3b3c6bdca48edbdd113accaba38bec2fd30aa1027aa282ce2b
+Section: Tweaks
+Description: Be proud of that lock!
+Author: Sniper_GER <sniperger@festival.ml>
+Depiction: https://repo.festival.ml/depiction/ml.festival.proudlock
+Name: ProudLock
+
+Package: ml.festival.proudlock
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 648
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: gsc.main-screen-width (= 1125), gsc.main-screen-height (= 2436)
+Filename: ./package_debian_A1/ml.festival.proudlock_0.2_iphoneos-arm.deb
+Size: 88060
+MD5sum: 70f2d59cfb1efabb4589696a4b91498c
+SHA1: 009517bc9dbe287961d0c3b1610f77f054a896e7
+SHA256: 5ca256a1d05b0fbb4e65745c8c6b8e28938e5067a7e9aa4b1761437f170a67da
+Section: Tweaks
+Description: Be proud of that lock!
+Author: Sniper_GER <sniperger@festival.ml>
+Depiction: https://repo.festival.ml/depiction/ml.festival.proudlock
+Name: ProudLock
+
+Package: ml.festival.proudlock
+Version: 0.2-1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 656
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: gsc.main-screen-width (= 1125), gsc.main-screen-height (= 2436)
+Filename: ./package_debian_A1/ml.festival.proudlock_0.2-1_iphoneos-arm.deb
+Size: 89264
+MD5sum: 2d131c2d1f3280bcb46526e9ef9a2d77
+SHA1: e812e759c7be4f9c8cb5e50f849b715898b4f98c
+SHA256: 46743b77532efab887e32ac4cbfedb1eccc694f39881b6104f0bbdd31a55220f
+Section: Tweaks
+Description: Be proud of that lock!
+Author: Sniper_GER <sniperger@festival.ml>
+Compatible_max: :11.3.1
+Compatible_min: :11.0
+Depiction: https://repo.festival.ml/depiction/ml.festival.proudlock
+Name: ProudLock
+
+Package: ml.festival.proudlockxr
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 4728
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/ml.festival.proudlockxr_0.1_iphoneos-arm.deb
+Size: 1249886
+MD5sum: fdbc8e70b6f1963158e65ecbd3292739
+SHA1: 00bbf2b411209e88c99221feb2e77528db59d86c
+SHA256: b9e15592ef517c5e1c7e8d32a74a1e3c451cf201cfcd2cc7382b07f4fa44d010
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: ProudLock X🅁
+
+Package: ml.festival.proudlockxr
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 4732
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/ml.festival.proudlockxr_0.1-1_iphoneos-arm.deb
+Size: 1251094
+MD5sum: a235ed700f7d9553dcc8092d261db025
+SHA1: d58c9fc904da2d12dc2018498aaaf956852997d8
+SHA256: e51e3896949101d69227e5cb063de75efdcf0d055d5898d2cbd907bb9db8a5ff
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: ProudLock Xr
+
+Package: ml.festival.proudlockxr
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 4732
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./package_debian_A1/ml.festival.proudlockxr_0.2_iphoneos-arm.deb
+Size: 1251776
+MD5sum: b578bbb444d5755dd19b96ab0fc8cb10
+SHA1: a68cbd42de2e12684ee89400d455d1ccd0367a4d
+SHA256: 023d81e7c3b6ed8277c7b2ee4c8cd66041316f24f153f22b99eb1516a11326af
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: ProudLock Xr
+
+Package: ml.festival.proudlockxr
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 4736
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./package_debian_A1/ml.festival.proudlockxr_0.3_iphoneos-arm.deb
+Size: 1252642
+MD5sum: 243d5c759d73f4a323f87dcbe9a6aaf4
+SHA1: 0271adf575ba0c5cfcc1360ad81d82878e05f018
+SHA256: 0b0f5dc47eebb49cb8ef7c75eef9c6736c742b8a35b8e68018a52c2f412d8a6a
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: ProudLock Xr
+
+Package: ml.festival.proudlockxr
+Version: 0.3-1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 4872
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./package_debian_A1/ml.festival.proudlockxr_0.3-1_iphoneos-arm.deb
+Size: 1239992
+MD5sum: 910998bc50de9013d3f99caae7cfff3f
+SHA1: 496e62cfb21b3a0cb66af7cbe33bf315378d4589
+SHA256: cc995efbe7f8410889056d078f54ea2807f4f656111b0d7e3716f6c4811e066d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: ProudLock Xr
+
+Package: ml.festival.proudlockxr
+Version: 0.3-2
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 4872
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./package_debian_A1/ml.festival.proudlockxr_0.3-2_iphoneos-arm.deb
+Size: 1240026
+MD5sum: d6efb98553d814705c341f6aa3bcfd65
+SHA1: 39348d7b0cb276bc3172705813c2766360b44b3c
+SHA256: 9ff40bdad772e5484210966e97ad3c14aa64819fc5122d4b63e6a099a7d17be7
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: ProudLock Xr
+
+Package: ml.festival.proudlockxr
+Version: 0.3-3
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 4872
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./package_debian_A1/ml.festival.proudlockxr_0.3-3_iphoneos-arm.deb
+Size: 1240092
+MD5sum: 1d8e06651eedb185a6941683a5bef4f2
+SHA1: ad814047b99765ddc9a10ba09c6b37d29bd27656
+SHA256: d42d6fb82c2ad0d6cd2bc82dac5fccbe5b062994f2fc250b479147eef609e005
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: ProudLock Xr
+
+Package: ml.festival.realcc
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 96
+Depends: mobilesubstrate
+Conflicts: com.jakeashacks.realcc
+Filename: ./package_debian_A1/ml.festival.realcc_1.1_iphoneos-arm.deb
+Size: 7500
+MD5sum: beaab5ca970383273e667377e418d8f9
+SHA1: 6277dbbebedbba65b757ae7be3db0391055788c9
+SHA256: f7483f220376cf7e84cf6d01b5fa8ac1788e0a51a3d120fabfc973dcc5a8a769
+Section: Tweaks
+Description: Actually disable Wi-Fi from the iOS 11 CC
+Author: Sniper_GER <sniperger@festival.ml>
+Depiction: https://repo.festival.ml/depiction/ml.festival.realcc
+Name: RealCC "2"
+
+Package: ml.festival.redstone
+Version: 17w37a.rs-internal.170916
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 6344
+Depends: mobilesubstrate, cc.tweak.libobjcipc, applist, ws.hbang.common, ml.festival.libweathermanager
+Filename: ./package_debian_A1/ml.festival.redstone_17w37a.rs-internal.170916_iphoneos-arm.deb
+Size: 2333754
+MD5sum: 6de5cfbd823ed95a8b596fc08596eea7
+SHA1: ed6aa1143271dc7c4b3e112e2689df399a1cf198
+SHA256: 6b917f587d8501a3d18c65936fe06d24b3bfc2bc5ac6e955e442c10ce8981694
+Section: Tweaks
+Description: A Tweak to bring the Windows 10 Mobile experience to iOS
+Author: Sniper_GER <sniperger@festival.ml>
+Depiction: https://repo.festival.ml/depiction/ml.festival.redstone
+Name: Redstone
+
+Package: ml.festival.redstone
+Version: 17w37a.rs-internal.170917
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 7068
+Depends: mobilesubstrate, cc.tweak.libobjcipc, applist, ws.hbang.common, ml.festival.libweathermanager
+Filename: ./package_debian_A1/ml.festival.redstone_17w37a.rs-internal.170917_iphoneos-arm.deb
+Size: 2512038
+MD5sum: ba0a2c744d4e395ba44f606b1e84e47b
+SHA1: 682d70e850db6ec007381561ca6aa6de84589c05
+SHA256: 00fcdfaec209cf571635d2159f908c084f531344054e97c5d2395cfbfee258d2
+Section: Tweaks
+Description: A Tweak to bring the Windows 10 Mobile experience to iOS
+Author: Sniper_GER <sniperger@festival.ml>
+Depiction: https://repo.festival.ml/depiction/ml.festival.redstone
+Name: Redstone
+
+Package: ml.festival.redstone
+Version: 17w38a.rs-internal.170918
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 7176
+Depends: mobilesubstrate, cc.tweak.libobjcipc, applist, ws.hbang.common, ml.festival.libweathermanager
+Filename: ./package_debian_A1/ml.festival.redstone_17w38a.rs-internal.170918_iphoneos-arm.deb
+Size: 2611166
+MD5sum: a31d8a43631f03186a003a1cae040ad3
+SHA1: 966d6148369bd39df17f43706d9413aec14e6e22
+SHA256: feccba34ba06d87832f40e44db10c998f12be75ff8067ff444af2c826c804640
+Section: Tweaks
+Description: A Tweak to bring the Windows 10 Mobile experience to iOS
+Author: Sniper_GER <sniperger@festival.ml>
+Depiction: https://repo.festival.ml/depiction/ml.festival.redstone
+Name: Redstone
+
+Package: ml.festival.signal
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <submissions@festival.ml>
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/ml.festival.signal_1.3_iphoneos-arm.deb
+Size: 48036
+MD5sum: 9a8226baf2c1cc57fbe4d4b5298f4607
+SHA1: 4cab8140ca977e52355e7297e4ae55e3933f7285
+SHA256: 36e81befe80617ee6656d1d081e8efe9d20f21c885264c5b4aefce694ccee157
+Section: Tweaks
+Description: Fake cellular connections
+Author: Sniper_GER <submissions@festival.ml>
+Depiction: https://repo.festival.ml/depiction/ml.festival.signal
+Name: Signal
+
+Package: ml.festival.signal
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <submissions@festival.ml>
+Installed-Size: 348
+Depends: mobilesubstrate
+Conflicts: gcs.cellular-data
+Filename: ./package_debian_A1/ml.festival.signal_1.4_iphoneos-arm.deb
+Size: 48500
+MD5sum: 67f346c95c7ccd523717a3ce081c3718
+SHA1: f916b9dcde94c95b4d409dd2a7f8b50170e0d993
+SHA256: 4f0d6f1e4f430e86dd78194dcf9bbd8beff131bc13e8dc809a4aa42d7924316d
+Section: Tweaks
+Description: Fake cellular connections
+Author: Sniper_GER <submissions@festival.ml>
+Depiction: https://connect.festival.ml/depiction/ml.festival.signal
+Name: Signal
+
+Package: ml.festival.wallpaperfix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/ml.festival.wallpaperfix_0.0.1_iphoneos-arm.deb
+Size: 3244
+MD5sum: 0b8ce2bad0fa2021460fc456911f4a42
+SHA1: d14160f5c53c49bad26b5403e111133cbb25eb7e
+SHA256: b2d2e83baf39b997a7bb692d3819733307e66b650c2a2f0902ff90f0a9be3a22
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: WallpaperFix
+
+Package: moe.misty.surge4-advanced
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: misty
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./package_debian_A1/moe.misty.surge4-advanced_0.0.2_iphoneos-arm.deb
+Size: 11048
+MD5sum: 3c7f5495ca1c6c3501f2e097332894b8
+SHA1: 9b72d85376c8abfa07805a8d86411b087c58a6eb
+SHA256: bc1204ce8227e33ae3bfee522014fafbade5543650dd7406f5120284005c7e39
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: misty
+Name: Surge4Advanced
+
+Package: net.angelxwind.appsyncunified
+Version: 104.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 732
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.8.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./package_debian_A1/nodelete-net.angelxwind.appsyncunified.deb
+Size: 59144
+MD5sum: 4d4f867de80c03237897a0396d1bd90b
+SHA1: ec75e0cf681f50c11ced972d9990912f6d57af99
+SHA256: 720ab7caf651b5922c41ce2960d0a94a6e5c9c3be3c76676c33524a5d5eab0d3
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
+Package: net.litchie.dospad
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Chaoji Li<lichaoji@gmail.com>
+Filename: ./package_debian_A1/dospad.deb
+Size: 3115388
+MD5sum: 8f7a7e6845e29c6b54195d40284c9fe6
+SHA1: e650b7fb778d9a21bb81eb9a0fe28fd2e2065282
+SHA256: 3103cb94c83fb9be57c6cdbb682f755a13c6f3fc849e12dd9b8e88561a4bb496
+Section: System
+Homepage: http://www.litchie.com/blog/?page_id=123
+Description: DOSPAD is a first dos emulator for iPhone/iPad, based on dosbox 0.74.
+Author: Chaoji Li<lichaoji@gmail.com>
+Depiction: http://www.litchie.com/apps/dospad-short.html
+Name: DOSPAD - dosbox for iOS
+Sponsor: None
+
+Package: net.namedfork.minivmac
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
+Installed-Size: 2404
+Depends: firmware (>= 7.0)
+Filename: ./package_debian_A1/minivmac4ios-2.1.deb
+Size: 458556
+MD5sum: aee06b22136b6c587f81f5da899daf68
+SHA1: 4c06f01782734d4ad3cbccefd9fa621b891ef1f4
+SHA256: f236b4bb6828778f6cd133633c8710a7cf23b1fede498fb571cb7e2f737a69a3
+Section: System
+Homepage: https://namedfork.net/minivmac
+Description: Mini vMac Mac emulator
+Author: Jesus A. Alvarez <zydeco@namedfork.net>
+Name: Mini vMac
+
+Package: net.namedfork.minivmac
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
+Installed-Size: 2540
+Depends: firmware (>= 7.0)
+Filename: ./package_debian_A1/minivmac4ios-2.1.1.deb
+Size: 478844
+MD5sum: 8faa95837514cb203e5fc98532ff7a01
+SHA1: c0dd8a72053991b251b56faef63ef35b6b583088
+SHA256: b394ac5b941a8f510f11fb969a1a01205ca651162005e7ae2b4d04e2424dffa7
+Section: System
+Homepage: https://namedfork.net/minivmac
+Description: Mini vMac Mac emulator
+Author: Jesus A. Alvarez <zydeco@namedfork.net>
+Name: Mini vMac
+
+Package: net.namedfork.minivmac
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
+Installed-Size: 3112
+Depends: firmware (>= 7.0)
+Filename: ./package_debian_A1/minivmac4ios-2.2.deb
+Size: 508096
+MD5sum: b175dad38b06cf60a1c01ab6acf73c1e
+SHA1: b900b18cedc3a9023cf0c149b8be6c163662a986
+SHA256: 45a5b7423fc6fd25227bf5a525223e313c1b14c4bce346ef2f50f8e5f23fb8dc
+Section: System
+Homepage: https://namedfork.net/minivmac
+Description: Mini vMac Mac emulator
+Author: Jesus A. Alvarez <zydeco@namedfork.net>
+Name: Mini vMac
+
+Package: net.namedfork.minivmac
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
+Installed-Size: 3136
+Depends: firmware (>= 7.0)
+Filename: ./package_debian_A1/minivmac4ios-2.2.1.deb
+Size: 512832
+MD5sum: 3b84a4d3c949007c8e6afb8abd57992a
+SHA1: 20a1c5b1442dadd9f867b3c3573015f89d01d994
+SHA256: a20512bfbc368dc5e15291ccac85cca48685d5ba065125cab70b79a30c3f661d
+Section: System
+Homepage: https://namedfork.net/minivmac
+Description: Mini vMac Mac emulator
+Author: Jesus A. Alvarez <zydeco@namedfork.net>
+Name: Mini vMac
+
+Package: net.namedfork.minivmac
+Version: 2.2.2
+Architecture: iphoneos-arm
+Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
+Installed-Size: 3124
+Depends: firmware (>= 7.0)
+Filename: ./package_debian_A1/minivmac4ios-2.2.2.deb
+Size: 507196
+MD5sum: 88dd6e6bdec35adb1e6b901b3f8f0a28
+SHA1: 4267e38f1268df753688bbf9d96a4c9753c63d10
+SHA256: be4a90a0de609c59e2c088c2984ac69b7d0fe7882155ea50615ee2c7084eb785
+Section: System
+Homepage: https://namedfork.net/minivmac
+Description: Mini vMac Mac emulator
+Author: Jesus A. Alvarez <zydeco@namedfork.net>
+Name: Mini vMac
+
+Package: net.namedfork.minivmac
+Version: 2.2.3
+Architecture: iphoneos-arm
+Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
+Installed-Size: 3124
+Depends: firmware (>= 7.0)
+Filename: ./package_debian_A1/minivmac4ios-2.2.3.deb
+Size: 507744
+MD5sum: 620b991f32309020a637f51de2a74764
+SHA1: b7ab649129007209dc858a0ea1f0482470d0f834
+SHA256: 94e10ec354cb502596c030544eb83ebb185b147d14bb3bf05984df87f9c06477
+Section: System
+Homepage: https://namedfork.net/minivmac
+Description: Mini vMac Mac emulator
+Author: Jesus A. Alvarez <zydeco@namedfork.net>
+Name: Mini vMac
+
+Package: net.namedfork.minivmac
+Version: 2.2.4
+Architecture: iphoneos-arm
+Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
+Installed-Size: 3676
+Depends: firmware (>= 7.0)
+Filename: ./package_debian_A1/minivmac4ios-2.2.4.deb
+Size: 549036
+MD5sum: 35793ff95d38f7c7e014bb1ea0c3a1dc
+SHA1: 83842e5dc44cc7b39254e818a01aae1b6e518c70
+SHA256: d6feb8d06605f7d0201f957f7c45bf75d23a9ecfcde8b116a764513b9d5657a3
+Section: System
+Homepage: https://namedfork.net/minivmac
+Description: Mini vMac Mac emulator
+Author: Jesus A. Alvarez <zydeco@namedfork.net>
+Name: Mini vMac
+
+Package: net.namedfork.minivmac
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
+Installed-Size: 3684
+Depends: firmware (>= 7.0)
+Filename: ./package_debian_A1/minivmac4ios-2.3.deb
+Size: 563196
+MD5sum: 265b3d908ab6d67929ab63f577763f3e
+SHA1: badc2b2fb893c3f8337d5fb13076ef37af40b379
+SHA256: 5907d68f0fab438dbbdc059d711273ed08320fc255b766f7429f9d6e7d087543
+Section: System
+Homepage: https://namedfork.net/minivmac
+Description: Mini vMac Mac emulator
+Author: Jesus A. Alvarez <zydeco@namedfork.net>
+Name: Mini vMac
+
+Package: net.namedfork.minivmac
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
+Installed-Size: 4028
+Depends: firmware (>= 7.0)
+Filename: ./package_debian_A1/minivmac4ios-2.3.1.deb
+Size: 648788
+MD5sum: e6cf026584dc1e6563b25bf751186aff
+SHA1: efc2987428674887282e8c95c3e77f39d50029e7
+SHA256: 537f3f49fb53d7ca3fefe3bf4c946e17b00fcf1ad69c02db39def1e3832926e8
+Section: System
+Homepage: https://namedfork.net/minivmac
+Description: Mini vMac Mac emulator
+Author: Jesus A. Alvarez <zydeco@namedfork.net>
+Name: Mini vMac
+
+Package: net.namedfork.minivmac
+Version: 2.3.2
+Architecture: iphoneos-arm
+Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
+Installed-Size: 4184
+Depends: firmware (>= 7.0)
+Filename: ./package_debian_A1/minivmac4ios-2.3.2.deb
+Size: 735980
+MD5sum: 6a38010b8069696c93097ecaed2f004e
+SHA1: 69769250cd98317a1aa6b27ea46b074587041f1b
+SHA256: 7eb8320a9bf6ac0496b6a7c2dc3145ef84b00e72d3bcb341cde1ddca56e72a4a
+Section: System
+Homepage: https://namedfork.net/minivmac
+Description: Mini vMac Mac emulator
+Author: Jesus A. Alvarez <zydeco@namedfork.net>
+Name: Mini vMac
+
+Package: net.namedfork.minivmac
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
+Installed-Size: 3820
+Depends: firmware (>= 7.0)
+Filename: ./package_debian_A1/minivmac4ios-2.4.deb
+Size: 721556
+MD5sum: 008e9c16bc71fbc6287c9276decc429d
+SHA1: 17ad1c5256657fee24a65d1ba08ea69fe82166cd
+SHA256: 24172260c0b3a5ab6e50b59761f58d3e2dcc647bbc9edf00c452297ca42aab32
+Section: System
+Homepage: https://namedfork.net/minivmac
+Description: Mini vMac Mac emulator
+Author: Jesus A. Alvarez <zydeco@namedfork.net>
+Name: Mini vMac
+
+Package: net.namedfork.minivmac
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
+Installed-Size: 3504
+Depends: firmware (>= 7.0)
+Filename: ./package_debian_A1/minivmac4ios-2.5.deb
+Size: 527436
+MD5sum: f3e15276fd7aa4fa4798f94654f2abf5
+SHA1: 203d9970ebf04488edbcf215367a2fa74c38778a
+SHA256: a5589afc07e171e4b60e200b3956929b0eddc64a6376ad08ccca7dc76193f96e
+Section: System
+Homepage: https://namedfork.net/minivmac
+Description: Mini vMac Mac emulator
+Author: Jesus A. Alvarez <zydeco@namedfork.net>
+Name: Mini vMac
+
+Package: net.namedfork.minivmac
+Version: 2.6
+Architecture: iphoneos-arm
+Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
+Installed-Size: 2272
+Depends: firmware (>= 13.4)
+Filename: ./package_debian_A1/minivmac4ios-2.6.deb
+Size: 291708
+MD5sum: 8c245b1cb8912a23838694b1b93ac17f
+SHA1: 7bf8e76cc2eb74a83eb39e05fa3bc59420349858
+SHA256: a5bf8cf2ef74016d78dbe407283f8e27e12e3514534516e730fa5dd329c1e374
+Section: System
+Homepage: https://namedfork.net/minivmac
+Description: Mini vMac Mac emulator
+Author: Jesus A. Alvarez <zydeco@namedfork.net>
+Name: Mini vMac
+
+Package: netskao.alipayhooks
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 236
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./package_debian_A1/netskao.alipayhooks_1.1-2_iphoneos-arm.deb
+Size: 54424
+MD5sum: 6d8c2b13b9d1cdb6954461ecf06d3ba7
+SHA1: 3f8480c397f057d2239f416884f43b45b311cc0b
+SHA256: 830ecae247c9b38a9127f3e06dae3ba4fa067128db935ce971de62b34cc51321
+Section: Tweaks
+Description: 支付宝去除底部理财和口碑或生活选项，去除底部红点显示等，理财是不可能理财的，只有收收钱勉强维持生活
+Author: Netskao
+Name: 支付宝 Hooks
+
+Package: netskao.awemepurification
+Version: 2.3-4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 556
+Depends: mobilesubstrate, firmware (>= 9.0)
+Replaces: netskao.awemepurification
+Filename: ./package_debian_A1/netskao.awemepurification_2.3-4_iphoneos-arm.deb
+Size: 203850
+MD5sum: af1b391d71dfaab22fa4edcc570be3f5
+SHA1: af1eb73bfd77987d114e6c08356036e8df5e2830
+SHA256: 44c30bc5ebf865a3ea85c6c5fae94367d570ad8fc5f85aa52e7eff3bb1df9e29
+Section: Tweaks
+Description: 抖音净化！设置位于抖音-设置，去除启动广告，去除视频流广告，去除视频流中的直播，去除流量提示，去除青少年提示，去除左下角播放时弹出的商品购买，去除左上角悬浮的推广等，可启用原始按钮或双击视频保存无水印视频活图片，支持保存所有视频或图片，可启用浅色模式或关闭，可启用全局纯净模式，可启用关注二次确定，可启用显示所有视频进度条，可启用双击快捷复制文案，可启用首页或非首页自动播放下一条，可启用iWall插件快速设置背景，可禁用头像挂件显示，可禁用弹出红包，可禁用全局状态栏，可禁用首页本地页面，可禁用摇一摇找朋友，可禁用分享面板朋友，可禁用分享面板应用，可禁用分享面板一起看视频，可禁用视频来源显示，可禁用首页按钮刷新列表，可禁用评论中的置顶评论，可禁用评论中的链接广告，可禁用底部朋友按钮，可禁用底部发抖音按钮，可禁用底部消息按钮，可禁用首页左上角直播按钮，可禁用首页右上角搜索按钮，仅支持15.7.0版本及以上(最后完美兼容版本16.2.0)，此插件已停止维护！！！
+Author: Netskao
+Name: 抖音净化
+
+Package: netskao.dumpdecrypter
+Version: 1.3-7
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 2428
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./package_debian_A1/netskao.dumpdecrypter_1.3-7_iphoneos-arm.deb
+Size: 528936
+MD5sum: c648d92cfc38e2ae80b46296f2800d85
+SHA1: f4b163ac249cc1326255e6963527e9a463e11df4
+SHA256: 936b4536a6d250886c3b566d1dd5dfa3c5642a777b5ab25333aaceb8746c4699
+Section: Tweaks
+Description: Decrypt iOS Apps
+Author: Netskao
+Name: DumpDecrypter
+
+Package: netskao.filzacrack
+Version: 1.1-4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 200
+Depends: mobilesubstrate, com.tigisoftware.filza64bit | com.tigisoftware.filza
+Filename: ./package_debian_A1/netskao.filzacrack_1.1-4_iphoneos-arm.deb
+Size: 16662
+MD5sum: 761b9829645b7681709026dad8c122ac
+SHA1: f6c7c32241e6d1ee55c9f06b09540307bd51daac
+SHA256: aa7d220be725d3176dc1396da35c450074eb6801d7e2799140ce12f23a568b85
+Section: Tweaks
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza破解全功能插件，主程序官方源安装，支持所有机型，如提示需要激活请激活即可，国行激活失败请自行修复联网，点击“更多信息”跳转官方源https://tigisoftware.com/cydia/
+Author: Netskao
+Name: Filza Crack
+
+Package: netskao.jdnoads
+Version: 1.1-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 256
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./package_debian_A1/netskao.jdnoads_1.1-6_iphoneos-arm.deb
+Size: 82294
+MD5sum: aca615f6acaee276b4144628cd9c5fef
+SHA1: 1dccacd08a00a49b26d42a7b8c051eee518311fb
+SHA256: a09a05b9e093e586a48fec07df55a05e9a10258a9a7f22db8ec1ee4884fbadf9
+Section: Tweaks
+Description: 京东去除启动广告，去除搜索列表中广告商品，去除首页信息流中滚动横幅，去除首页信息流中618精选会场，去除首页下拉活动，去除首页右下角悬浮窗，去除分类页面顶部横幅，去除发现页面顶部横幅，去除购物车推荐商品，去除我的页面随机出现的悬浮窗，去除我的页面精选推荐(其他模块自带可关闭)，去除随机弹出的推广窗口，增加长按保存商品视频和评论视频
+Author: Netskao
+Name: 京东 NoAds
+
+Package: netskao.qqpurification
+Version: 2.0-1.3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 880
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./package_debian_A1/netskao.qqpurification_2.0-1.3_iphoneos-arm.deb
+Size: 335902
+MD5sum: 6a93660904c7d92622a4354754e7b8e2
+SHA1: 496fe6dddf0d290291b2842ab32aa690e2ab21ec
+SHA256: 05e0d5312cc66c6fbc3bdeeebffd5b7cef49b9112aa996876342ae7188cc6f6e
+Section: Tweaks
+Description: QQ净化，还原聊天本质，干净的QQ给你，设置位于QQ-设置页面顶部，仅支持8.8.0及以上版本
+Author: Netskao
+Name: QQ净化
+
+Package: netskao.qqyynoads
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/netskao.qqyynoads_1.2-1_iphoneos-arm.deb
+Size: 112366
+MD5sum: 74ad766d00252949a5ca0f82c64b0153
+SHA1: 8e551bf61efd5e31812248924a95e4effd02c9be
+SHA256: f06ca18de6942fd2d20e4e3a160f361350821e94ee2c8506fb6012a4d2b9006d
+Section: Tweaks
+Description: QQ音乐去除启动广告，去除其他广告，去除推荐列表中直播和音乐馆列表中直播，去除首页顶部直播按钮，去除底部电台和扑通按钮等
+Author: Netskao
+Name: QQ音乐 NoAds
+
+Package: netskao.wyyyynoads
+Version: 1.2-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 2116
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./package_debian_A1/netskao.wyyyynoads_1.2-6_iphoneos-arm.deb
+Size: 417080
+MD5sum: f79c14f44141b53eb18800ee9495af70
+SHA1: eda98f9dc6d2e27ce04c7d0ea506dee2acc0620d
+SHA256: 1f5c3fd4e7542e5decde4db589cf0a70ed3308ffe83bbab09e0fb9722679a49f
+Section: Tweaks
+Description: 网易云音乐去除启动广告，去除评论区相关信息和广告，去除首页顶部横幅中插入的广告，去除搜索页面顶部广告，去除播放页面顶部右上角在唱，去除左侧设置无关紧要选项，绕过越狱检测可收藏可评论，解除非中国地区播放限制，增加使用原始分享按钮保存任意视频到相册，增加缓存歌曲导出(下载或本地页面，歌曲操作面板导出，支持自动解密ncm格式)
+Author: Netskao
+Name: 网易云音乐 NoAds
+
+Package: org.thebigboss.dismissprogress
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 152
+Depends: firmware (>= 6.0)
+Filename: ./package_debian_A1/org.thebigboss.dismissprogress_1.1.1_iphoneos-arm.deb
+Size: 5238
+MD5sum: e3a54711baec689ad8a831177179ea34
+SHA1: 9258aabc239dfee37cfbb9db3db33844b096340e
+SHA256: 69362db9aee63b06d5e71931b336645885777bb1b1fe79cdf0d7998325c55d79
+Section: Tweaks
+Description: Dismiss installation window without closing cydia.
+Author: PoomSmart
+Name: DismissProgress
+
+Package: phoneitipda-4.3.3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/PhoneItiPad_4.3.3_1.1.deb
+Size: 7380348
+MD5sum: 622cf1807a3b0773f3b7d2590549b2aa
+SHA1: be0e24b89ea9bbc4c7d684063d8f7c55f3bf3f28
+SHA256: 1f8b6b97158ea7e90bf109e9af24cace775cbcc95be9a70ba1c9082dbbcf07c2
+Section: Tweaks
+Priority: standard
+Homepage: http://www.iphoneislam.com
+Description: Turn your iPad 1 3G into a fully functional phone
+Author: iPhoneIslam <info@iphoneislam.com>
+Name: PhoneIt-iPad-4.3.3 (iPhoneIslam)
+
+Package: phoneitipda-5.0
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/PhoneItiPad_5.0.x_2.0.deb
+Size: 2631674
+MD5sum: ae5a152a58a327ac7b03ad888fdb23d8
+SHA1: 1711627ced16b1d6a5c76902155f61e71a9532bd
+SHA256: c94344492f7c80e5c93767143ab63c1399cd243a25d32c744ed36fbc0c3d1e24
+Section: Tweaks
+Priority: standard
+Homepage: http://www.iphoneislam.com
+Description: Turn your iPad 1 3G into a fully functional phone
+Author: iPhoneIslam <info@iphoneislam.com>
+Name: PhoneIt-iPad-5.0 (iPhoneIslam)
+
+Package: phoneitipda-5.1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPhoneIslam Support <info@iphoneislam.com>
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/PhoneItiPad_5.1.x_1.0.deb
+Size: 2602226
+MD5sum: d0389e3028665d4f23a58b1db2bbe283
+SHA1: dd58324eac5dce1c250803903aacb5f675bc4911
+SHA256: 69834fcd932456caaf58706493419810d4ce879b59752e73dbbcea699135891c
+Section: Tweaks
+Priority: standard
+Homepage: http://www.iphoneislam.com
+Description: Turn your iPad 1 3G into a fully functional phone
+Author: iPhoneIslam <info@iphoneislam.com>
+Name: PhoneIt-iPad-5.1 (iPhoneIslam)
+
+Package: phoneitipda-5.1
+Version: 1.0-Crack
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Pre-Depends: firmware (>= 5.1), firmware (<= 5.1.1)
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/PhoneItiPad_5.1.x_1.0-Crack.deb
+Size: 2092520
+MD5sum: 17d3d0849a548bb3fd1df2457c668f49
+SHA1: 352422bbe1e9cf537945882d47441184afbc3ea8
+SHA256: 7a0296621f95738f8bec5199b1925e835f812e94c928da35565d3e835d3bfac8
+Section: Tweaks
+Priority: standard
+Homepage: https://dopaemon.github.io/Cydia
+Description: Giúp iPad 1 bản 3G có chức năng nghe gọi đầy đủ.
+Author: iPhoneIslam <info@iphoneislam.com>
+Name: PhoneIt iPad iOS 5.1 (Crack)
+
+Package: repo.biteyourapple.net.paragon
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Redenfire <redenfire@gmail.com>
+Depends: firmware (>= 6.0), mobilesubstrate, com.wynd.dreamboard
+Conflicts: com.zmaster.androidlockxt, repo.biteyourapple.net.androidlockxt
+Replaces: com.zmaster.androidlockxt, repo.biteyourapple.net.androidlockxt
+Filename: ./package_debian_A1/paragon_1.0.0_iphoneos-arm.paragon.deb
+Size: 2113572
+MD5sum: 78a926860ca9ac8f47e4204c62cb7a88
+SHA1: 87528a1f1b006fd909650f8d5ef2b54f6e149920
+SHA256: 03c09adece479bebbd4bf014321b721c8e2f6fecf8712ae0c3fdbbb7f5bb5862
+Section: BYA Themes
+Homepage: http://www.biteyourapple.net
+Description: Paragon is the most realistic Windows Phone 8 theme for your iPhone!
+Author: BYA Repository
+Depiction: http://repo.biteyourapple.net/depiction/dep.php?name=paragon
+Name: Paragon
+Sponsor: biteyourapple <http://www.biteyourapple.net>
+
+Package: run.er.wormctrl
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: yu
+Installed-Size: 1172
+Depends: mobilesubstrate, preferenceloader
+Filename: ./package_debian_A1/run.er.wormctrl_1.1.0_iphoneos-arm.deb
+Size: 181958
+MD5sum: 0dc0d6a7b8f4360032b9f5c58b7cbd2c
+SHA1: 126a16ac92818ed6388ff82c8198116d91673217
+SHA256: 0008457bddd17f88d2ae7781fb9609e103bb5adba1bd2526d4bcf31098e5c71d
+Section: System
+Description: This is the plugin of blackhole.
+Tag: role::hacker
+Author: yu
+Name: Blackhole Plugin
+
+Package: sileot.locationfakerx
+Version: 2.8-2k
+Architecture: iphoneos-arm
+Maintainer: Önder Azazi <onderazazi@hotmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate
+Conflicts: org.thebigboss.locationfaker8, org.thebigboss.locationchangerx, com.cunstuck.locationfakerx
+Filename: ./package_debian_A1/locationfakerx_2.8-2k.deb
+Size: 1574580
+MD5sum: bbf189f20611a8ead820ec08d6e6896c
+SHA1: 00a896c07725116441a02b2add66b85a864ffab8
+SHA256: ff4413e5d51aeda2eb2a568dcdea0f92c034e4eca3676bc31c2c1704f20a0064
+Section: Tweaks
+Description: change your Location in any App
+Author: CUNSTUCK
+Name: LocationFakerX
+
+Package: tf.festival.kbstretcher
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./package_debian_A1/tf.festival.kbstretcher_1.0.0_iphoneos-arm.deb
+Size: 7636
+MD5sum: e1cf7070fd114a42103118e7d8dc2005
+SHA1: 467ba464222e7f058186bfea424416fd66753629
+SHA256: 43ccef34d99bae858b6ae15ab42c9bb4cafefdeda37e367537c400bc8888b728
+Section: Tweaks
+Description: Stretches keyboards to appropriate sizes
+Author: Sniper_GER <sniperger@festival.tf>
+Name: kbstretcher
+
+Package: tf.festival.pointercontrolenabler
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./package_debian_A1/tf.festival.pointercontrolenabler_1.0_iphoneos-arm.deb
+Size: 2976
+MD5sum: 203832b5d59a57f7b1c81acb3120ddb8
+SHA1: b2066ebf08766c730485ecddd3dcc27fe614cb01
+SHA256: a9619a444a58216d170a24361f9cc940f3b80e2ad3bdcc7e8b8667d09a59a188
+Section: Tweaks
+Description: Enables Pointer Control settings for every accessory.
+Author: Sniper_GER <sniperger@festival.tf>
+Name: PointerControlEnabler
+
+Package: tf.festival.rescale2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 748
+Depends: mobilesubstrate, preferenceloader
+Filename: ./package_debian_A1/tf.festival.rescale2_1.0_iphoneos-arm.deb
+Size: 85508
+MD5sum: b0d667560fc7d7cf279f0b38a2875eb5
+SHA1: 02e4a56063193f1fcf31cda076fc422b94188ad6
+SHA256: ec39a74da5c1dc63be1ced5bd19f9ed92dc8c10acc6f9865a5d82d6307288e59
+Section: Tweaks
+Description: A modern (and safe) Upscale alternative!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: Re:Scale 2
+
+Package: tf.festival.rescale2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 976
+Depends: mobilesubstrate, preferenceloader
+Filename: ./package_debian_A1/tf.festival.rescale2_1.0.1_iphoneos-arm.deb
+Size: 97292
+MD5sum: 69fe49cbfda15ced045818d3e6858ebe
+SHA1: 8953fe1c4425357b163883508b3a9e21c9db86f9
+SHA256: 10fff0459c5263c4755fdb2e8c354f552564a37fa3d9a80be9483e30241d8e7d
+Section: Tweaks
+Description: A modern (and safe) Upscale alternative!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: Re:Scale 2
+
+Package: tf.festival.rescale2
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 976
+Depends: mobilesubstrate, preferenceloader
+Filename: ./package_debian_A1/tf.festival.rescale2_1.0.2_iphoneos-arm.deb
+Size: 97230
+MD5sum: 5a2e565a2502fd23a39355567a3910bd
+SHA1: b5b4bb1ed0d9007542c6252aa67d0cd6ad767bf3
+SHA256: 492874f16b1c3deec69b5b3f1642adf92573e1d116f0b7c56ae87228f29df661
+Section: Tweaks
+Description: A modern (and safe) Upscale alternative!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: Re:Scale 2
+
+Package: tf.festival.rescale2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 976
+Depends: mobilesubstrate, preferenceloader
+Filename: ./package_debian_A1/tf.festival.rescale2_1.0.3_iphoneos-arm.deb
+Size: 104190
+MD5sum: 0cda92bb912c8fe953b5451cf98c66ba
+SHA1: 49ba7deb8122d9a3bc76df6039881a8356bbdf7d
+SHA256: 8b99ac8270fa164ff13678eb7abff0d69a40430b015572f1a805da364cea23b7
+Section: Tweaks
+Description: A modern (and safe) Upscale alternative!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: Re:Scale 2
+
+Package: tf.festival.rescale2
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 976
+Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
+Filename: ./package_debian_A1/tf.festival.rescale2_1.0.4_iphoneos-arm.deb
+Size: 104468
+MD5sum: eee96ccc0fd6e3fe6504a4e85e823514
+SHA1: ac1de25c5cd7c01327d94bd4be9358845dcbe95f
+SHA256: 7684978717609f698640126969d83bd363489dd6d53327732e778eb4fc9de205
+Section: Tweaks
+Description: A modern (and safe) Upscale alternative!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: Re:Scale 2
+
+Package: tf.festival.rescale2
+Version: 1.0.4-1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 1084
+Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
+Filename: ./package_debian_A1/tf.festival.rescale2_1.0.4-1_iphoneos-arm.deb
+Size: 126782
+MD5sum: dca7f435f07d1b110f0725c6cb38b705
+SHA1: 7667a19274d6cd315e653d9366f17cde7b295d44
+SHA256: 85ae3ac31542583bb9572b441866cab228cd941c8da7000315451835f17ab4cb
+Section: Tweaks
+Description: A modern (and safe) Upscale alternative!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: Re:Scale 2
+
+Package: tf.festival.rescale2
+Version: 1.0.4-2
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 976
+Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
+Filename: ./package_debian_A1/tf.festival.rescale2_1.0.4-2_iphoneos-arm.deb
+Size: 106204
+MD5sum: a29ab69bd6e765a0283cc11d7112f23f
+SHA1: d3cf058a87491cc1d926322958ca4dc3d4aa5f22
+SHA256: 24be66c41a4e454a94b5e6c323ead61fe77576ca45aed6052bd1f31182c45cff
+Section: Tweaks
+Description: A modern (and safe) Upscale alternative!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: Re:Scale 2
+
+Package: tf.festival.rescale2
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 1368
+Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
+Filename: ./package_debian_A1/tf.festival.rescale2_1.0.5_iphoneos-arm.deb
+Size: 175468
+MD5sum: 3caa0e4d67d0d02eb5f7dfa0b3bb62f4
+SHA1: 447572417d897130818a18c4c72e1e632ee07bda
+SHA256: df7ddb5f8784cc9301d2a3e9b6a83c511a162a34dda31db31549441c508ab70a
+Section: Tweaks
+Description: A modern (and safe) Upscale alternative!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: Re:Scale 2
+
+Package: tf.festival.rescale2
+Version: 1.0.5-1
+Architecture: iphoneos-arm
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 1368
+Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
+Filename: ./package_debian_A1/tf.festival.rescale2_1.0.5-1_iphoneos-arm.deb
+Size: 175842
+MD5sum: 4bf9cd78a9d38177a5df2680e7650802
+SHA1: b55690581f454be0e1cb6b5a71f75561e7d2be9c
+SHA256: 71f7ba65f558176f53af7d169d7d3292a7a7458e4f9df8bfa7461ec2cf8c49de
+Section: Tweaks
+Description: A modern (and safe) Upscale alternative!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: Re:Scale 2
+
+Package: vn.gsm.appsync30
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <support@gsm.vn>
+Pre-Depends: firmware (= 3.0) | firmware (= 3.0.1) | firmware (= 3.0.2) | firmware (= 3.0.3) | firmware (= 3.0.4)
+Depends: gsmicon
+Filename: ./package_debian_A1/appsync30.deb
+Size: 236812
+MD5sum: b1d6d0a38d69a0bbd45b2f810b3b5c62
+SHA1: da8cccf14c18a8f0089d834ad6cfeafbab06c08d
+SHA256: 5faad843294f3748222cd7b28295172102c63e01914d071d02b92415bd9c1dd1
+Section: Tools
+Homepage: http://iphone.gsm.vn/moreinfo/info.html
+Description: Giúp cài đặt các Apps đã Crack trên OS3.0
+Author: Reilly <appsync@hackulo.us>
+Name: AppSync for OS 3.0
+
+Package: vn.gsm.appsync31
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <support@gsm.vn>
+Pre-Depends: firmware (= 3.1) | firmware (= 3.1.1) | firmware (= 3.1.2) | firmware (= 3.1.3)
+Depends: gsmicon
+Conflicts: us.hackulo.appsync31
+Replaces: us.hackulo.appsync31
+Filename: ./package_debian_A1/appsync31-1.0.1.deb
+Size: 248144
+MD5sum: b5bcd9f59213c290c7f7961dac023c86
+SHA1: 196b07cf6770b3a9cd4c02bfeb1e229b463a2a8a
+SHA256: a6af7375eb6834061ebd450b52cd0b17b0a83b2c4cc9d8097f2f370cc2e52185
+Section: Tools
+Priority: standard
+Description: Giúp cài đặt các Apps đã Crack trên iPhone OS3.1.x
+Author: Reilly <appsync@hackulo.us>
+Depiction: http://iphone.gsm.vn/moreinfo/appsync3.1.x.php
+Name: AppSync for OS 3.1
+
+Package: vn.gsm.appsync32
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <support@gsm.vn>
+Pre-Depends: firmware (= 3.2) | firmware (= 3.2.1) | firmware (= 3.2.2)
+Depends: gsmicon
+Conflicts: us.hackulo.appsync32
+Replaces: us.hackulo.appsync32
+Filename: ./package_debian_A1/appsync32-2-1.deb
+Size: 222808
+MD5sum: 8a7cde1fc20f10f4ad9cfcc5645bbe5c
+SHA1: 606dd201f6c33c574945ad58408f36a8aae2b5d2
+SHA256: 556afcedf70b479dd80c593eae642229f2c48d15dfc0afad3a1493128af348a1
+Section: Tools
+Priority: standard
+Description: Giúp cài đặt các Apps đã Crack trên iPad OS3.2.x
+Author: Dissident <apps@hackulo.us>
+Depiction: http://iphone.gsm.vn/moreinfo/appsync32.php
+Name: AppSync for OS 3.2
+
+Package: vn.gsm.appsync40plus
+Version: 1.1-6
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Pre-Depends: firmware (>= 4.0), firmware(<< 4.4)
+Provides: appsync, vn.gsm.appsync40, vn.gsm.appsync41, vn.gsm.appsync42
+Filename: ./package_debian_A1/appsync40plus_1.1-6-1.deb
+Size: 8200
+MD5sum: 7320adc326f6f88c70c1aa07c45f2407
+SHA1: d541dbe0340263b541b7ce38e7a29b79d7c240df
+SHA256: 4b8a1df80d18fdf17914b8e6800ddc9de041f87460aa3213e76005624fc70a8e
+Section: Tools
+Priority: standard
+Homepage: http://cydia.vn/
+Description: AppSync allows you to sync and install cracked iOS applications.
+Author: Dissident <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t903/
+Name: AppSync for iOS 4.0+
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.appsync50plus
+Version: 2.2b
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Depends: gsmicon, firmware (>= 5.0), mobilesubstrate
+Conflicts: us.hackulo.appsync50, vn.gsm.appsync50
+Replaces: us.hackulo.appsync50, vn.gsm.appsync50
+Provides: appsync, us.hackulo.appsync50plus
+Filename: ./package_debian_A1/appsync50plus_2.2-1b.deb
+Size: 4232
+MD5sum: 3e87b8757d997734f87a73e96924d69c
+SHA1: 921a5e48df0253dc0c087f766bc8061521373eb7
+SHA256: 673c9a42fba2cf21c3df576df7e29de312bf47b54bbd8b1b524be163d33a8185
+Section: Tools
+Priority: standard
+Homepage: http://cydia.vn/
+Description: AppSync allows you to sync and install cracked iOS applications.
+Author: Dissident <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t2086/
+Name: AppSync for iOS 5.0+
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.appsync70plus
+Version: 5.6-4b
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 336
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified
+Replaces: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified
+Provides: appsync
+Filename: ./package_debian_A1/appsyncunified_5.6-4b.deb
+Size: 80160
+MD5sum: efdb88b450120ca7ce3899f325490e5a
+SHA1: 7d3acfa7242d6965669182c52bdf6c3316ab9363
+SHA256: ea20cfacaf375915ea7fc8fc6ccd598c27eef47af3385c1ac1032494563aec1e
+Section: Tools
+Homepage: http://cydia.vn/
+Description: Works on iOS 5, 6, 7, 8 & 9. AppSync Unified allows you to sync and install unsigned iOS applications.
+Author: Linus Yang, Karen Tsai
+Depiction: http://cydia.vn/depic/t4522/
+Name: AppSync for iOS 5, 6, 7, 8, 9
+
+Package: vn.gsm.appsync70plus
+Version: 5.6-5b
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 336
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified
+Replaces: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified
+Provides: appsync
+Filename: ./package_debian_A1/appsyncunified_5.6-5b.deb
+Size: 87196
+MD5sum: b59c29819fcb9607a97a14a64fb6fdc7
+SHA1: eb52ac1454ac8fd18dfbcdc77c0b434278bc89f3
+SHA256: 15f00b058d06942d2619378d1fe6c725c44218f4a39b116855069363a5897503
+Section: Tools
+Homepage: http://cydia.vn/
+Description: Works on iOS 5, 6, 7, 8 & 9. AppSync Unified allows you to sync and install unsigned iOS applications.
+Author: Linus Yang, Karen Tsai
+Depiction: http://cydia.vn/depic/t4522/
+Name: AppSync for iOS 5, 6, 7, 8, 9
+
+Package: vn.gsm.dospad
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vnm>
+Filename: ./package_debian_A1/dospad_2.0.1.deb
+Size: 4151628
+MD5sum: 11de2ec981119dd617750fa7cfde1ff3
+SHA1: 0befc3691485e8f38a64bf5d038585dced59d65c
+SHA256: 3d1d989d1ea8dbd1973212963d8e7db919306824d5c19eba198504d28a4d99a0
+Section: System
+Homepage: http://cydia.vn/
+Description: DOSPAD is a first dos emulator for iPhone/iPad, based on dosbox 0.74.
+Author: Chaoji Li
+Depiction: http://cydia.vn/depic/t5808/
+Name: DOSPAD - dosbox for iOS
+
+Package: xyz.eshaydev.ignition
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: EshayDev <eshay.dev@gmail.com>
+Depends: firmware (>=11.0), mobilesubstrate
+Filename: ./package_debian_A1/xyz.eshaydev.ignition.deb
+Size: 9070
+MD5sum: e5f1b06c32fad5c4cf38174cb8ff22df
+SHA1: 8ef6fe7f2344a3d973035b6372db767b2e9b69d5
+SHA256: 27457761b52f54794f7ebd5bf791a6c93f3062e29321d5515958c4f783f4bc96
+Section: Tweaks
+Homepage: https://eshaydev.github.io
+Description: Unlock the full potential of Infuse
+Tag: role::enduser
+Author: EshayDev & CobreDev <eshay.dev@gmail.com>
+Depiction: https://eshaydev.github.io/depiction/web/xyz.eshaydev.ignition.html
+Icon: https://eshaydev.github.io/assets/xyz.eshaydev.ignition/icon.png
+Moderndepiction: https://eshaydev.github.io/depiction/native/xyz.eshaydev.ignition.json
+Name: Ignition
+Sileodepiction: https://eshaydev.github.io/depiction/native/xyz.eshaydev.ignition.json
+Someotherentrytocontrol: True
+Tags: compatible_min::ios11.0, compatible_max::ios16.0
+
