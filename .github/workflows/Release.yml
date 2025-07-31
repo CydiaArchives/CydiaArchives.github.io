@@ -1,0 +1,18 @@
+name: Push changes
+on:
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Upgrade Repository Packages
+        run: |
+          git submodule add -b main --force https://github.com/CydiaArchives/package_debian_A1.git debs_A1
+          git submodule update --init --recursive
+      - name: Commit and push changes
+        uses: devops-infra/action-commit-push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "Repo: Repository Update"
