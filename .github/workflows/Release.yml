@@ -22,6 +22,9 @@ jobs:
       - name: Create Packages
         run: |
           ./sync.sh
+      - name: Format for Cluster Repo
+        run: |
+          sed -i 's|Filename: \./package_debian_A1|Filename: https://CydiaArchives.github.io/package_debian_A1|' Packages
 
       - name: Commit and push changes
         uses: devops-infra/action-commit-push@master
