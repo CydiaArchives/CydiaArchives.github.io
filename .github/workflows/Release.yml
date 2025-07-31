@@ -10,7 +10,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup
+      - name: Setup Github Repository
         run: |
           git config --global user.email "polarisdp@gmail.com"
           git config --global user.name "dopaemon"
